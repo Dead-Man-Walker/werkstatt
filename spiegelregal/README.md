@@ -1,6 +1,6 @@
 # Spiegelregal
 
-Wandhängendes Spiegelregal aus Holz, 780 × 740 × 140 mm: Spiegel links, schmales Regal rechts. Fertigungszeichnung als maßstäbliches SVG/PNG, per Skript konstruiert. Anforderung: [anforderung.md](anforderung.md).
+Wandhängendes Spiegelregal aus Holz, 780 × 740 × 140 mm: Spiegel links, schmales Regal rechts. Fertigungszeichnung als maßstäbliches SVG/PNG, per Skript konstruiert. Anforderung: [anforderung.md](anforderung.md). Materialrecherche: [material.md](material.md).
 
 ## Stand (2026-09-24)
 
@@ -33,6 +33,7 @@ Maßketten im Prompt teils doppelt verlangt (740/220/20 in Vorderansicht und Sch
 
 ## Offene Punkte
 
+- Material/Brettdicke: 20 mm nur aus sägerauem Schalbrett + Hobeln; gehobelte Ware 18/19 mm → Maßkette anpassen (Außenmaß oder Spiegelöffnung halten), Optionen und Preise in [material.md](material.md).
 - Konkreter Knauf (Maße, Befestigung von vorn/hinten).
 - Topfposition (21,5 von Kante, 50 von oben/unten) nur gezeichnet, abhängig vom Scharnierhersteller.
 - Spiegel liegt in umlaufend geschlossener Nut → beim Verleimen einzusetzen, ohne Zerlegen nicht tauschbar. Alternative: ein Rahmenbrett nur verschrauben oder Falz von hinten mit Halteleisten.
