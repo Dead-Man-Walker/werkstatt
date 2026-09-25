@@ -28,6 +28,7 @@ Ausgangspunkt war ein Entwurf per Bildgenerator (ChatGPT, verworfen, nicht aufbe
 | Tür (v3) | einliegend, 116 × 216, Fuge 2, 20 mm, 2 Topfscharniere Ø35 rechts mit Zuhaltefeder | bündige Front; öffnet vom Spiegel weg |
 | Knauf (v3) | Ø25, ca. 25 vorstehend, 25 von linker Türkante, mittig (108 \| 108) | Kaufteil, nur Bohrposition bemaßt |
 | Rückwand | keine, auch nicht hinter der Tür | Prompt; zweite Nut im Mittelsteg ließe nur 4–6 mm Steg |
+| Eckverbindung | Holzdübel 8 × 40, 3 je Stoß (10 Stöße), Mitte 30/70/110 von Hinterkante; Bohrtiefe Fläche 12 / Hirnholz 30 (bei 18 mm: 10/32); verleimen in zwei Etappen: rechte Spalte (Mittelsteg, Böden, rechte Seite), dann Rest mit Spiegel | Nut 10–15 von hinten, 8 tief: mittiges Hirnholzloch würde sie dort anschneiden; ohne Rückwand trägt nur die Ecke die Winkelsteifigkeit; Weißleim-offene Zeit ~10 min |
 
 Maßketten im Prompt teils doppelt verlangt (740/220/20 in Vorderansicht und Schnitt B–B, 140 in A–A und B–B): so übernommen. `(125)` als Hilfsmaß geklammert, übrige überbestimmte Ketten nicht.
 
