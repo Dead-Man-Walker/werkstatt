@@ -17,7 +17,9 @@ Fotos (nicht versioniert): `~/downloads/Telegram Desktop/photo_[1-4]_2026-10-05_
 | Reparaturweg | selbst ersetzen; Schneiderei als Rückfall | User; Neukauf/Salewa ausgeschlossen |
 | Maschine | vorhandene Haushaltsmaschine | User |
 | Shop | extremtextil.de (YKK, alles aus einer Hand) | einzige vollständig geprüfte DE-Quelle |
-| Größe | beide Fächer YKK 8C, Enden per Quernaht | User 2026-10-05: Original egal, da komplett neu; 8C robuster |
+| Größe | beide Fächer YKK 8C, Enden per Quernaht | User 2026-10-05: Original egal, da komplett neu; 8C robuster als 5C |
+| 10C verworfen | nicht verwenden | stabiler, aber Reserve bei 22 l unnötig; breiteres/steiferes Band erschwert Haushaltsmaschine in Kurven Hauptfach [E]; Preis 10C nicht ermittelt |
+| Schieber | 8C frei hängend, ohne Bremse, 2 je Fach Kopf an Kopf | wie Original; Bremse/abschließbar unnötig |
 | Reihenfolge | erst Vordertasche (kurz, gerade) als Übung, dann Hauptfach | Hauptfach = Kurven + Einfassband + Polster, Knackpunkt |
 
 ## Offene Punkte

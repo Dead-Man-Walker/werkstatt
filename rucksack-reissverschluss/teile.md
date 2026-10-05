@@ -27,11 +27,36 @@ Versand DE: DHL 5,95 €, Päckchen 3,80 €, frei ab 70 €, Abholung Dresden. 
 
 Grenzen: 8C ohne Stopper und ohne Zweiwege-Unterschieber im Shop → Enden per Quernaht sichern; Zweiwege bei 8C mit zwei normalen Schiebern Kopf an Kopf [E]. Konfektionierte Spiral-RV in 30–100 cm dort nicht vorhanden.
 
+## Schiebertypen
+
+| Merkmal | Varianten | Einsatz |
+|---|---|---|
+| Bremse | Automatikbremse / ohne | Bremse: kein Selbstöffnen unter Zug; ohne: üblich bei Rucksack mit 2 Schiebern |
+| Lasche | einseitig fest / frei hängend | frei hängend: Kordel leicht anzubringen |
+| Lasche beidseitig | oben + unten | Bedienung von innen (Zelt); läuft auch auf Reverse Coil [A] |
+| Abschließbar | Lasche mit Loch | 2 Schieber per Vorhängeschloss verbinden |
+| Bauform | normal / Zweiwege-Unterschieber / Reverse-Coil | passend zu Spirallage und Zweiwege |
+| Material | Zinkdruckguss / Kunststoff | Metall robuster |
+
+Bei extremtextil für 8C nur „frei hängend, ohne Bremse“ geprüft; andere 8C-Varianten ungeprüft. Bremse/abschließbar für Tagesrucksack nicht nötig [E].
+
+## Mengen
+
+| Teil | Menge | Herleitung |
+|---|---|---|
+| Meterware 8C | 3 m | verbaut ca. 1,6 m (Hauptfach 80–100 cm + Vordertasche 30–40 cm + 2 × 4 cm Zugabe je Fach; geschätzt [E], Urban-22-Maße nicht gefunden, andere Salewa 22 l: 47–52 × 26–28 × 13–20 cm [S]); Rest Reserve für Fehlversuch. 2 m knapp ausreichend, spart 5,90 €, Nachbestellung kostet erneut Versand. |
+| Schieber 8C | 4 | je Fach 2 Kopf an Kopf; am Original prüfen, Vordertasche ggf. nur 1 |
+| Garn | 1 Rolle | Bedarf ca. 50 m: ca. 7 m Naht (je RV beidseitig, je 2 Nähte), Ober- + Unterfaden, Proben, Verschnitt [E]. Alterfil 500 m reicht ~10-fach; Serafil 1200 m nur bei Weiterverwendung |
+| Jeans 100 | 5 St. | je RV frische Nadel, Rest Bruchreserve |
+| Jeans 110 | 5 St. | Ecken/dicke Stellen; entfällt, wenn 100 bei Probenaht durchkommt |
+| Nahttrenner | 1 | falls nicht vorhanden |
+| Ripsband 25 mm | 1 m | nur falls altes Einfassband beim Auftrennen reißt |
+
+Längenmessung: Maßband/Schnur entlang Spirale, Ende zu Ende, +4 cm je Fach.
+
 ## Warenkorb (Größe 8C festgelegt 2026-10-05)
 
-Gewählt: Spalte 8C.
-
-3 m Meterware (Hauptfach + Vordertasche + Reserve, [E]), 4 Schieber (je Fach 2 Kopf an Kopf, [E]).
+Gewählt: Spalte 8C. Mit Alterfil statt Serafil 46,10 €; ohne Nahttrenner + Ripsband je −4,65 €.
 
 | Posten | 5C | 8C |
 |---|---|---|
