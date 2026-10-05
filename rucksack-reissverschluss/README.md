@@ -17,14 +17,15 @@ Fotos (nicht versioniert): `~/downloads/Telegram Desktop/photo_[1-4]_2026-10-05_
 | Reparaturweg | selbst ersetzen; Schneiderei als Rückfall | User; Neukauf/Salewa ausgeschlossen |
 | Maschine | vorhandene Haushaltsmaschine | User |
 | Shop | extremtextil.de (YKK, alles aus einer Hand) | einzige vollständig geprüfte DE-Quelle |
+| Größe | beide Fächer YKK 8C, Enden per Quernaht | User 2026-10-05: Original egal, da komplett neu; 8C robuster |
 | Reihenfolge | erst Vordertasche (kurz, gerade) als Übung, dann Hauptfach | Hauptfach = Kurven + Einfassband + Polster, Knackpunkt |
 
 ## Offene Punkte
 
-- **Größe unbekannt** (5C oder 8C, ggf. je Fach verschieden). Salewa-Angabe nicht auffindbar. Klärung: Prägung Schieberrückseite (Zahl + „C“) fotografieren, oder Breite geschlossene Spirale messen (≈ mm), oder Lehre-Test mit je einem 5C- und 8C-Schieber (1,90 €).
-- **Reverse Coil?** Fotos deuten auf Standard (Spirale außen sichtbar) — vermutet, am Rucksack prüfen. Reverse braucht andere Schieber.
-- **Längen** je Fach messen (Hauptfach geschätzt 90–100 cm, Vordertasche 30–40 cm, vermutet).
+- **Längen** je Fach messen (Hauptfach geschätzt 90–100 cm, Vordertasche 30–40 cm, vermutet); prüfen, ob 3 m 8C reichen.
 - Schieberanzahl/-richtung je Fach am Original notieren (Hauptfach vermutlich 2, Kopf an Kopf).
+- 8C mit zwei Standardschiebern Kopf an Kopf: Funktion ungetestet.
+- Bestellung offen.
 - Ob Maschine die dicksten Stellen schafft: an Ecke Hauptfach testen; Rückfall Nähahle oder Repair-Café.
 - Wonder Clips: keine DE-Quelle geprüft; Ersatz Haushaltsklammern.
 

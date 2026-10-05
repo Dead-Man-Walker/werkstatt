@@ -27,7 +27,9 @@ Versand DE: DHL 5,95 €, Päckchen 3,80 €, frei ab 70 €, Abholung Dresden. 
 
 Grenzen: 8C ohne Stopper und ohne Zweiwege-Unterschieber im Shop → Enden per Quernaht sichern; Zweiwege bei 8C mit zwei normalen Schiebern Kopf an Kopf [E]. Konfektionierte Spiral-RV in 30–100 cm dort nicht vorhanden.
 
-## Warenkorb (Vorschlag, Größe offen)
+## Warenkorb (Größe 8C festgelegt 2026-10-05)
+
+Gewählt: Spalte 8C.
 
 3 m Meterware (Hauptfach + Vordertasche + Reserve, [E]), 4 Schieber (je Fach 2 Kopf an Kopf, [E]).
 
