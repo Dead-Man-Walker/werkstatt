@@ -12,10 +12,12 @@ Hohe Katzentreppe zwischen zwei Balkonen, dauerhaft bewittert. Plattformen OSB-3
 
 ## Material (Produktseiten abgerufen 2026-10-07)
 
-| Teil | Produkt | Daten laut OBI |
-|---|---|---|
-| Plattform | OSB-3 Verlegeplatte 22 mm N+F, OBI 5799762 | 2050 × 625 × 22 mm, E1, „Trocken- und Feuchtbereich" (= Nutzungsklasse 2, nicht für Bewitterung) |
-| Stütze | Kantholz Fichte/Tanne sägerau, OBI 4726428 | 98 × 78 × 3000 mm, Güteklasse 1/2, nicht imprägniert, 10,8 kg |
+| Teil | Produkt | Daten laut OBI | Preis (abgerufen 2026-10-07, ohne Marktwahl) |
+|---|---|---|---|
+| Plattform | [OSB-3 Verlegeplatte 22 mm N+F, OBI 5799762](https://www.obi.de/p/5799762/osb-3-verlegeplatte-22-mm-mit-nut-und-feder-205-cm-x-62-5-cm) | 2050 × 625 × 22 mm, E1, „Trocken- und Feuchtbereich" (= Nutzungsklasse 2, nicht für Bewitterung) | 15,48 € |
+| Stütze | [Kantholz Fichte/Tanne sägerau, OBI 4726428](https://www.obi.de/p/4726428/kantholz-fichte-tanne-saegerau-98-mm-x-78-mm-x-3000-mm) | 98 × 78 × 3000 mm, Güteklasse 1/2, nicht imprägniert, 10,8 kg | 22,17 € |
+
+Vollständige Stückliste: [material.md](material.md).
 
 ## Entscheidungen
 
@@ -38,12 +40,12 @@ Hohe Katzentreppe zwischen zwei Balkonen, dauerhaft bewittert. Plattformen OSB-3
 | Wandbefestigung | 4 × M10 A4 Injektionsanker mittig zwischen Aussparungen, Distanzhülse 20; Fuß 50 über Boden, nichts auf Balkonboden | Vorschlag |
 | Stützenmaterial | Fichte/Tanne unimprägniert | User-Vorgabe; Empfehlung war Lärche/Douglasie oder Stahlrohr. Dauerhaftigkeitsklasse 4, Fäulnis zuerst am Fuß |
 
-## Holzschutzkonzept (für gewähltes Material)
+## Holzschutzkonzept (für gewähltes Material, Stand v3)
 
-- OSB: alle Kanten und Nut/Feder vor Montage rundum versiegeln (Kantenschutz/Epoxid oder 2× deckender Lack), Fläche allseitig beschichten, auch Unterseite. Oberseite rutschfest (Quarzsand einstreuen oder Gummimatte mit Ablauf). 2–3 % Gefälle, Abstand zur Stütze, keine Wassernester. Jährliche Sichtkontrolle Kanten; aufgequollen = tauschen.
-- Fichte: Fuß in Pfostenträger, ≥ 2 cm über Grund; Kopf abdecken; Hirnholz versiegeln; deckende Farbe (Grundierung + 2×). Seitliche Aussteifung an Balkon/Fassade.
-- Verbindungsmittel: Edelstahl A2/A4.
-- Katzenkontakt: keine Biozide auf Laufflächen; Beschichtung speichelecht (DIN EN 71-3).
+- OSB: Nut und Feder abschneiden; alle Schnittkanten und Kerbe 79×26 vor Montage 2× Kantenschutz/Epoxid; Fläche allseitig deckend beschichten (Grundierung + 2×, auch Unterseite), Quarzsand in letzte Schicht oben gegen Rutschen. Krallen beschädigen die Schicht → jährlich nachbessern; aufgequollenes Brett tauschen (Reserve-Brett, Steckverbindung lösbar). Brett liegt waagerecht, kein Gefälle (Entscheidung: nur Versiegeln).
+- Fichte: hängt an Fassade, 20 mm Wandabstand (Hinterlüftung), Fuß 50 über Balkonboden, kein Bodenkontakt; Hirnholz an Fuß, Kopf und allen Aussparungsflächen 2× Hirnholzsiegel/Epoxid; Kopf zusätzlich mit Blechkappe; Fläche deckende Farbe (Grundierung + 2×). Aussteifung über 4 Wandanker.
+- Verbindungsmittel: Edelstahl A4.
+- Katzenkontakt: keine Biozide; Beschichtungen speichelecht (DIN EN 71-3).
 
 ## Offene Punkte
 
