@@ -37,7 +37,7 @@ Maßketten im Prompt teils doppelt verlangt (740/220/20 in Vorderansicht und Sch
 
 ## Offene Punkte
 
-- Einsatzort Bad, Oberfläche Beize matt (2026-10-08): Fichte gesetzt, Beizart und Farbe offen bis Probestück und Preisvergleich; Leim D3 statt Weißleim. Details: [oberflaeche.md](oberflaeche.md).
+- Einsatzort Bad, Oberfläche Beize matt (2026-10-08): Fichte gesetzt; Beize und Deckschicht (Tendenz Klarlack) offen bis Probestück; Leim D3 statt Weißleim. Details: [oberflaeche.md](oberflaeche.md).
 
 - Material/Brettdicke: 20 mm nur aus sägerauem Schalbrett + Hobeln; gehobelte Ware 18/19 mm → Maßkette anpassen (Außenmaß oder Spiegelöffnung halten), Optionen und Preise in [material.md](material.md).
 - Konkreter Knauf (Maße, Befestigung von vorn/hinten).
