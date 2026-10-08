@@ -13,4 +13,5 @@ Basis v3 (`zeichnung_v3.py`, Geschosshöhe 2800 = Annahme → 11 Stufen). Mengen
 | 7 | Unterlegscheibe A4, groß | M10 | 4 | Wandanker vorn | – | |
 | 8 | Hutmutter A4 | M10 | 4 | Wandanker vorn | – | |
 | 9 | [Renaulac Terrassenfarbe seidenmatt grau, Hornbach 10667023](https://www.hornbach.de/p/renaulac-terrassenfarbe-seidenmatt-grau-2-5-l/10667023/) | 2,5 l, selbstgrundierend, 10 m²/l | 1 | OSB allseitig + Kantholz, 2 Anstriche, Rest zum Nachstreichen | 39,95 € | abgerufen 2026-10-08, im Markt vorrätig |
+| 9a | Alternative zu 9: [toom Xpress Renovierfarbe Terrassen graphit, toom 8211804](https://toom.de/p/renovierfarbe-fuer-terrassen-graphitfarben-matt-25-l/8211804) | 2,5 l, selbstgrundierend, 10 m²/l, dunkel | 1 | wie 9 | 29,99 € | Recherche 2026-10-08 (live geprüft); Treppen im TM nicht genannt |
 | 10 | Blechkappe | ~80 × 100, Edelstahl oder Zink | 1 | Kantholzkopf | – | |

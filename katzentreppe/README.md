@@ -44,6 +44,8 @@ Vollständige Stückliste: [material.md](material.md).
 
 Ein Produkt für alles: [Renaulac Terrassenfarbe seidenmatt grau 2,5 l](https://www.hornbach.de/p/renaulac-terrassenfarbe-seidenmatt-grau-2-5-l/10667023/), Hornbach 10667023, 39,95 € (abgerufen 2026-10-08). [TM](https://media.hornbach.de/hb/technicaldatasheet/as.84984383.pdf): „aller Holzarten", „barfuß begehbar", selbstgrundierend, 10 m²/l, voll belastbar 5 d; Konservierer BIT/ZnPT/MIT. Behelf: keine OSB-Freigabe, Standzeit unbelegt.
 
+Günstigere Alternative: [toom Xpress Renovierfarbe Terrassen graphit 2,5 l](https://toom.de/p/renovierfarbe-fuer-terrassen-graphitfarben-matt-25-l/8211804), toom 8211804, 29,99 € (Abholung Markt; online < 59 € Sperrgut-Zuschlag), dunkel. [TM](https://static.toom.de/produkte/bilder/8211806/technisches_datenblatt__8211806.pdf): Holzböden außen, selbstgrundierend, 10 m²/l, begehbar 12 h, voll belastbar 5 d; Treppen nicht genannt, keine OSB-Freigabe, Konservierer BIT/ZnPT/MIT. Ablauf identisch.
+
 - Alle Teile vor Montage drinnen streichen, alle 6 Seiten inkl. Kerben, Aussparungen, Hirnholz Kopf/Fuß; Kanten leicht brechen; 2 Anstriche laut TM, keine Pfützen; Verarbeitungstemperatur laut TM.
 - Nach Montage Schraubköpfe überstreichen. Katzen erst nach voll belastbar (≥ 5 d) und vollständiger Durchtrocknung; bei Kälte länger.
 - Jährlich: Kratzer/Kanten nachstreichen, aufgequollene Bretter tauschen (Reserve-Brett).
