@@ -1,6 +1,6 @@
 # Material: Stückliste
 
-Basis v3 (`zeichnung_v3.py`, Geschosshöhe 2800 = Annahme → 11 Stufen). Mengen aus v3 berechnet. Preise nur für die zwei OBI-Artikel abgerufen (2026-10-07, ohne Marktwahl, regional abweichend möglich); Rest ohne Preis, nicht recherchiert.
+Basis v3 (`zeichnung_v3.py`, Geschosshöhe 2800 = Annahme → 11 Stufen). Mengen aus v3 berechnet. Preise abgerufen: OBI-Artikel 2026-10-07 (ohne Marktwahl), Renaulac 2026-10-08 (Hornbach); Rest ohne Preis, nicht recherchiert.
 
 | # | Teil | Maß / Spezifikation | Menge | Verwendung | Preis | Vermerk |
 |---|---|---|---|---|---|---|
@@ -12,7 +12,5 @@ Basis v3 (`zeichnung_v3.py`, Geschosshöhe 2800 = Annahme → 11 Stufen). Mengen
 | 6 | Distanzhülse Edelstahl | Länge 20, innen ≥ 10,5 | 4 | Wandabstand | – | |
 | 7 | Unterlegscheibe A4, groß | M10 | 4 | Wandanker vorn | – | |
 | 8 | Hutmutter A4 | M10 | 4 | Wandanker vorn | – | |
-| 9 | Hirnholzsiegel oder Epoxid | – | 1 Gebinde | Aussparungen, Kerben, Schnittkanten, Kantholzenden | – | speichelecht |
-| 10 | Grundierung + deckende Holzfarbe außen | speichelecht (DIN EN 71-3) | je 1 Gebinde | OSB allseitig, Kantholz | – | |
-| 11 | Quarzsand fein | – | wenig | Rutschschutz in letzter Schicht | – | |
-| 12 | Blechkappe | ~80 × 100, Edelstahl oder Zink | 1 | Kantholzkopf | – | |
+| 9 | [Renaulac Terrassenfarbe seidenmatt grau, Hornbach 10667023](https://www.hornbach.de/p/renaulac-terrassenfarbe-seidenmatt-grau-2-5-l/10667023/) | 2,5 l, selbstgrundierend, 10 m²/l | 1 | OSB allseitig + Kantholz, 2 Anstriche, Rest zum Nachstreichen | 39,95 € | abgerufen 2026-10-08, im Markt vorrätig |
+| 10 | Blechkappe | ~80 × 100, Edelstahl oder Zink | 1 | Kantholzkopf | – | |

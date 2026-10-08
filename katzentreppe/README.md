@@ -33,25 +33,31 @@ Vollständige Stückliste: [material.md](material.md).
 | Kantholzlage | 78 an Wand, 98 tief → Steg 78×25 = 25 % Querschnitt | Auflage nach vorn 73; gedreht (98 an Wand) nur 53 Auflage bei 222 Überstand |
 | Überlappung | Brett ragt 50 über gegenüberliegende Kantholzseite | User bestätigt 2026-10-07 |
 | Startpunkt | Boden unterer Balkon, Durchgang unteres Geländer | User 2026-10-07 |
-| Hirnholzschutz | alle Aussparungs- und Schlitzflächen vor Montage 2× Hirnholzsiegel/Epoxid | Befund: Steg 25–32 % Querschnitt, untere Schulter = nach oben zeigendes Hirnholz; User wählt Versiegeln, kein Gefälle, Steg bleibt 25 |
+| Oberfläche | Renaulac Terrassenfarbe grau, 2 Anstriche allseitig vor Montage, auch Aussparungen und Kerben (2026-10-08); ersetzt Epoxid/Hirnholzsiegel + Acryl | Material OSB + Fichte bleibt (User); Recherche + Codex-Review: Wetterschutzfarben schließen Böden aus, Epoxid/Quarzsand/Gefälle unbelegt bzw. widersprüchlich; Steg bleibt 25 |
 | Steigung | 11 × 254,5 bei Geschoss 2800 (Annahme); oberste Stufe bündig oberer Boden | ~25 cm Fachwissen (20–30), keine Quelle gefunden |
 | Fixierung | je Brett 1 Senkkopfschraube A4 5×60 senkrecht in Aussparungsboden, vorgebohrt | Vorschlag |
 | Wandabstand 20 | Hinterlüftung: Spalt trocknet ab, keine Fäulnis an verdeckter Rückseite, Putz bleibt trocken | Fachwissen, nicht recherchiert |
 | Wandbefestigung | 4 × M10 A4 Injektionsanker mittig zwischen Aussparungen, Distanzhülse 20; Fuß 50 über Boden, nichts auf Balkonboden | Vorschlag |
 | Stützenmaterial | Fichte/Tanne unimprägniert | User-Vorgabe; Empfehlung war Lärche/Douglasie oder Stahlrohr. Dauerhaftigkeitsklasse 4, Fäulnis zuerst am Fuß |
 
-## Holzschutzkonzept (für gewähltes Material, Stand v3)
+## Holzschutzkonzept (Stand 2026-10-08, Recherche [recherche-beschichtung.md](recherche-beschichtung.md), [recherche-stufenfarbe.md](recherche-stufenfarbe.md))
 
-- OSB: Nut und Feder abschneiden; alle Schnittkanten und Kerbe 79×26 vor Montage 2× Kantenschutz/Epoxid; Fläche allseitig deckend beschichten (Grundierung + 2×, auch Unterseite), Quarzsand in letzte Schicht oben gegen Rutschen. Krallen beschädigen die Schicht → jährlich nachbessern; aufgequollenes Brett tauschen (Reserve-Brett, Steckverbindung lösbar). Brett liegt waagerecht, kein Gefälle (Entscheidung: nur Versiegeln).
-- Fichte: hängt an Fassade, 20 mm Wandabstand (Hinterlüftung), Fuß 50 über Balkonboden, kein Bodenkontakt; Hirnholz an Fuß, Kopf und allen Aussparungsflächen 2× Hirnholzsiegel/Epoxid; Kopf zusätzlich mit Blechkappe; Fläche deckende Farbe (Grundierung + 2×). Aussteifung über 4 Wandanker.
-- Verbindungsmittel: Edelstahl A4.
-- Katzenkontakt: keine Biozide; Beschichtungen speichelecht (DIN EN 71-3).
+Ein Produkt für alles: [Renaulac Terrassenfarbe seidenmatt grau 2,5 l](https://www.hornbach.de/p/renaulac-terrassenfarbe-seidenmatt-grau-2-5-l/10667023/), Hornbach 10667023, 39,95 € (abgerufen 2026-10-08). [TM](https://media.hornbach.de/hb/technicaldatasheet/as.84984383.pdf): „aller Holzarten", „barfuß begehbar", selbstgrundierend, 10 m²/l, voll belastbar 5 d; Konservierer BIT/ZnPT/MIT. Behelf: keine OSB-Freigabe, Standzeit unbelegt.
+
+- Alle Teile vor Montage drinnen streichen, alle 6 Seiten inkl. Kerben, Aussparungen, Hirnholz Kopf/Fuß; Kanten leicht brechen; 2 Anstriche laut TM, keine Pfützen; Verarbeitungstemperatur laut TM.
+- Nach Montage Schraubköpfe überstreichen. Katzen erst nach voll belastbar (≥ 5 d) und vollständiger Durchtrocknung; bei Kälte länger.
+- Jährlich: Kratzer/Kanten nachstreichen, aufgequollene Bretter tauschen (Reserve-Brett).
+- Fichte zusätzlich: 20 mm Wandabstand, Fuß 50 über Boden, Kopf Blechkappe. Verbindungsmittel Edelstahl A4.
+- Verworfen (Belege in beiden Recherche-Dateien): Epoxid/Hirnholzsiegel (DIY-Kantenschutz unbelegt), Quarzsand-Einstreu (in keinem TM), Gefälle im Aussparungsboden (widerspricht Steckverbindung), 3. Anstrich (unbelegt), Wetterschutzfarben inkl. Remmers Deckfarbe (TM schließt Bodenflächen aus), Öl auf OSB (Hersteller schließt aus), biozidhaltige Grundierung.
+- Befund Produktklassen (TM, 2026-10-08): deckende Wetterschutzfarben (Remmers, Consolan, Bondex, Hornbach, Wilckens) schließen waagerechte/begangene Flächen aus → für Stufen Terrassen-/Bodenfarbe für Holz.
+- Rutschfestigkeit nasser Stufen für Katzen: keine belegte Lösung („rutschhemmend" in TM bezieht sich auf Personen).
 
 ## Offene Punkte
 
 - Maße: Versatz in cm, Breite der Geländerlücke oben.
 - Geschosshöhe (OK Boden unten → OK Boden oben) messen; > ~2,95 m: 3-m-Kantholz zu kurz.
 - Aussparungen jährlich auf Fäulnis prüfen (Steg 25 = 25 % Querschnitt).
+- Oberfläche OSB außen bleibt Behelf ohne Freigabe; Rutschfestigkeit nasser Stufen ungelöst.
 - Statik/Kippsicherheit der 3-m-Stütze (Knicklänge, Wind).
 - Zustimmung Vermieter/WEG/Nachbar (Orientierung, keine Rechtsberatung).
 
