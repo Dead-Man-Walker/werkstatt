@@ -5,7 +5,9 @@ Ausgangsprompt (wörtlich, Bildgenerator-Vorgabe, 2026-09-24) und spätere Ände
 ## Änderungen
 
 - v2 (verworfen): Regalböden höhenverstellbar über Lochreihen, ein Kasten mit Tür, Lage und Höhe nach Empfehlung.
-- v3 (aktuell): wieder feste, gleichmäßige Regalabstände ohne Löcher; Tür im mittleren Fach; Knauf zum Öffnen.
+- v3 (abgenommen): wieder feste, gleichmäßige Regalabstände ohne Löcher; Tür im mittleren Fach; Knauf zum Öffnen.
+- 2026-10-08: Einsatzort Badezimmer; Rahmenholz (Fichte, gesetzt) beizen, Naturholzton wie Eiche/Nussbaum, Oberfläche matt; Beizart/Farbe offen.
+- v4 (aktuell): Spiegel in Falz von hinten 20 × 8 statt Nut, Spiegelfront 120 hinter Vorderkante, gehalten von kurzen Halteleisten.
 
 ## Ausgangsprompt
 
