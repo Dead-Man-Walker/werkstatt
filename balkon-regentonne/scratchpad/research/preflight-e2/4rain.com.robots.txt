@@ -1,0 +1,7051 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<script nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA" type="text/javascript" data-cmp-ab="1" src="https://cdn.consentmanager.net/delivery/autoblocking/e057f344f4de.js" data-cmp-host="delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="13"></script>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Welcome to GARANTIA | GARANTIA</title>
+<meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+<meta name="generator" content="TYPO3 CMS">
+<meta name="description" content="Welcome to GARANTIA! GARANTIA offers a wide range of products related to rainwater harvesting, rainwater tank, garden and more.">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="application-name" content="GRAF Website">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="GRAF Website">
+<meta property="og:title" content="Welcome to GARANTIA">
+<meta property="og:description" content="Welcome to GARANTIA! GARANTIA offers a wide range of products related to rainwater harvesting, rainwater tank, garden and more.">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="cleartype" content="on">
+<meta name="theme-color" content="#eb6911">
+<meta name="apple-mobile-web-app-title" content="GRAF Website">
+<meta name="msapplication-tileimage" content="apple-touch-icon.png">
+<meta name="msapplication-tilecolor" content="#eb6911">
+
+
+<link rel="stylesheet" href="/typo3temp/assets/compressed/bac9d16a4a607c9edb699700c24ff8db-ba5ec8874fc35349ab50b618ca752a6c.css?1791535792" media="all" nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/merged-7a3d46c648224270829a2d445108dd57-48ce28cdcedeefa305c4ba9ec1b16f91.css?1791535792" media="all" nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/merged-623afae9539aa42024aa30894e11e6af-3d553e46b02affb1c995fb732ccc24f2.css?1791535792" media="print" nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA">
+
+
+
+
+
+<script nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA">
+/*<![CDATA[*/
+/*headerSliderJsSettings*/
+var IgHeadersliderSettings = {"timeout":"5000","duration":"2000","pauseOnHover":"0","width":"1920","height":"570","dotsAsProgress":"0","nav":{"dots":"1","arrows":"0"}};
+
+/*]]>*/
+</script>
+<script nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;var n=d.querySelector('[nonce]');
+n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PPSB7SJ');</script>
+
+			<link rel="shortcut icon" href="/favicon.ico">
+      <link rel="apple-touch-icon-precomposed" href="/_icons/apple-touch-icon.png">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon.png">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-57x57.png" sizes="57x57">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-60x60.png" sizes="60x60">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-72x72.png" sizes="72x72">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-76x76.png" sizes="76x76">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-114x114.png" sizes="114x114">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-120x120.png" sizes="120x120">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-128x128.png" sizes="128x128">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-144x144.png" sizes="144x144">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-152x152.png" sizes="152x152">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-180x180.png" sizes="180x180">
+      <link rel="apple-touch-icon" href="/_icons/apple-touch-icon-precomposed.png"><script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization","url": "https://www.garantia.com/en/","logo": "/_assets/4f067fdbd2f561f1f86ac9ed543b3b4f/Media/garantia.svg"}
+</script><link rel="preload" href="/_assets/4f067fdbd2f561f1f86ac9ed543b3b4f/Fonts/roboto-v20-latin-ext-regular.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/_assets/4f067fdbd2f561f1f86ac9ed543b3b4f/Fonts/roboto-v20-latin-ext-700.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/_assets/646b342a0e0bbe3fd658877e409fad4b/Vendor/FontAwesome/Fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/_assets/646b342a0e0bbe3fd658877e409fad4b/Vendor/FontAwesome/Fonts/fa-light-300.woff2" as="font" type="font/woff2" crossorigin>
+<script nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA">var IgTemplateSettings = {"headerScrolledAt":"24","headerScrollToggleMinWidth":"0","bannerAdjust":"0","fixedHorizontalSubMenu":"1","backToTopButtonAt":"300","backToTopButtonAnimationDuration":"400","backToTopButtonMinWidth":"0","hideMetaBarOnScrolled":"0"};</script>
+<link rel="canonical" href="https://www.garantia.com/en/"/>
+
+</head>
+<body>
+<noscript><div class="callout alert text-center">For full functionality of this site it is necessary to enable JavaScript.<br>Here are the <a href="https://www.enable-javascript.com/" target="_blank" rel="nofollow">instructions how to enable JavaScript in your web browser</a>.</div></noscript>
+
+
+<header id="header">
+	
+		
+
+
+	<div class="meta-bar">
+		<div class="row row-full collapse">
+			<div class="columns small-12">
+				<div class="notepad-language-wrap">
+                    
+							
+								<div class="notepad" data-tooltip data-disable-hover="true" data-position="bottom" data-alignment="center" data-tooltip-class="tooltip fixed" title="Mark an article.">
+									<button class="button primary">
+										<i class="fal fa-thumbtack"></i>
+										Enquiry (<span class="notepad-count">0</span>)
+									</button>
+								</div>
+							
+                        
+					
+	<nav class="menu-language">
+		<input type="checkbox" id="toggle-menu-language" class="input-menu" />
+		<label for="toggle-menu-language" class="label-menu toggle-menu-language">
+			<img src="/_assets/4f067fdbd2f561f1f86ac9ed543b3b4f/Media/mini-world.png" width="" height="" alt="" />
+			<span>
+				<span class="menu-language-iso">en</span>
+				<span class="menu-language-arrows">
+					<i class="fal fa-angle-down"></i>
+					<i class="fal fa-angle-up"></i>
+				</span>
+			</span>
+		</label>
+		<ul class="level-1">
+			<li><a href="/de/">Deutsch</a></li>
+			<li class="sub"><a>English</a>
+				<ul class="level-2">
+					<li><a href="/en/">International</a></li>
+					<li>
+						<a href="https://www.grafuk.co.uk/brand/garantia/" target="_blank">United Kingdom<span class="t3js-icon icon icon-size-small icon-state-default icon-flags-gb" data-identifier="flags-gb" aria-hidden="true">
+	<span class="icon-markup">
+<img src="/_assets/1ee1d3e909b58d32e30dcea666dd3224/Icons/Flags/gb.webp" width="16" height="16" alt="" />
+	</span>
+	
+</span></a>
+					</li>
+					<li>
+						<a href="/en-au/">Australia<span class="t3js-icon icon icon-size-small icon-state-default icon-flags-au" data-identifier="flags-au" aria-hidden="true">
+	<span class="icon-markup">
+<img src="/_assets/1ee1d3e909b58d32e30dcea666dd3224/Icons/Flags/au.webp" width="16" height="16" alt="" />
+	</span>
+	
+</span></a>
+					</li>
+				</ul>
+			</li>
+			<li><a href="/fr/">Français</a></li>
+			<li class="sub"><a>Español</a>
+				<ul class="level-2">
+					<li><a href="/es/">Internacional</a></li>
+					<li>
+						<a href="/es-es/">España<span class="t3js-icon icon icon-size-small icon-state-default icon-flags-es" data-identifier="flags-es" aria-hidden="true">
+	<span class="icon-markup">
+<img src="/_assets/1ee1d3e909b58d32e30dcea666dd3224/Icons/Flags/es.webp" width="16" height="16" alt="" />
+	</span>
+	
+</span></a>
+					</li>
+				</ul>
+			</li>
+			<li><a href="/pl/">Polski</a></li>
+		</ul>
+	</nav>
+
+
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	
+	<div class="header-main">
+		<div class="row">
+			<div class="columns large-12">
+				<div class="logo">
+					<a href="/en/" title="GARANTIA"><img src="/_assets/4f067fdbd2f561f1f86ac9ed543b3b4f/Media/garantia.svg" width="64" height="64"   alt="GARANTIA" ></a>
+				</div>
+				<div class="row">
+					<div class="columns large-12 large-centered">
+						<div class="show-for-print contact-print">
+							<table>
+								<tr>
+									<td colspan="3">
+										<strong>Otto Graf GmbH</strong><br>
+										Kunststofferzeugnisse
+									</td>
+								</tr>
+								<tr>
+									<td>Tel. +49 7641 589-0<br>Fax +49 7641 589-50</td>
+									<td>info@garantia.co.uk<br>www.garantia.com/en</td>
+									<td>Carl-Zeiss-Straße 2-6<br>DE-79331 Teningen</td>
+								</tr>
+							</table>
+						</div>
+						<nav class="menu-main">
+							
+
+
+
+
+	
+			
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-main" class="input-menu" />
+			<label for="toggle-menu-main" class="label-menu toggle-menu-main">
+				<span></span>
+			</label>
+		
+
+			<div class="menu-main-container">
+		
+	<ul class="level-1">
+		
+			
+
+			
+				
+			
+			
+				
+			
+
+			<li class="act sub">
+				<a href="/en/" title="Products">
+					
+					<span>
+						Products
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7576" class="input-menu" />
+			<label for="toggle-menu-7576" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-2">
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/products/rainwater-tanks-overground.html" title="Rainwater tanks overground">
+					
+					<span>
+						Rainwater tanks overground
+						
+							<i class="fal fa-angle-right"></i>
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7679" class="input-menu" />
+			<label for="toggle-menu-7679" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-3">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/products/rainwater-tanks-overground/rainwater-tank-finder.html" title="Rainwater Tank Finder">
+					
+					<span>
+						Rainwater Tank Finder
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters.html" title="Rainwater Tanks with planters">
+					
+					<span>
+						Rainwater Tanks with planters
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-8877" class="input-menu" />
+			<label for="toggle-menu-8877" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rainwater-tanks-with-planters/natura-2in1-water-tank/natura-2in1-water-tank-arctic.html" title="Natura 2in1 water tank">
+					
+					<span>
+						Natura 2in1 water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rainwater-tanks-with-planters/color-2in1-water-tank/color-2in1-water-tank-apple.html" title="Color 2in1 water tank">
+					
+					<span>
+						Color 2in1 water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rainwater-tanks-with-planters/stone-2in1-water-tank/stone-2in1-water-tank-lava.html" title="Stone 2in1 water tank">
+					
+					<span>
+						Stone 2in1 water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rainwater-tanks-with-planters/nordic-2in1-water-tank/nordic-2in1-water-tank-stone-grey.html" title="Nordic 2in1 water tank">
+					
+					<span>
+						Nordic 2in1 water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rainwater-tanks-with-planters/linus-2in1-water-tank.html" title="Linus 2in1 water tank">
+					
+					<span>
+						Linus 2in1 water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rainwater-tanks-with-planters/2in1-water-tank/2in1-water-tank-with-plant-cup-zink-grey.html" title="2in1 water tank">
+					
+					<span>
+						2in1 water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters/triagon-2in1-water-tank/triagon-2in1-water-tank-agave.html" title="Triagon 2in1 water tank">
+					
+					<span>
+						Triagon 2in1 water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters/vaso-2in1-rainwater-tank.html" title="Vaso 2in1 rainwater tank">
+					
+					<span>
+						Vaso 2in1 rainwater tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters/vaso-2in1-decor-rainwater-tank/vaso-2in1-decor-water-tank-zink-grey.html" title="Vaso 2in1 decor rainwater tank">
+					
+					<span>
+						Vaso 2in1 decor rainwater tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters/azura-2in1-rainwater-tank.html" title="Azura 2in1 rainwater tank">
+					
+					<span>
+						Azura 2in1 rainwater tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters/jolie-2in1-water-tank.html" title="Jolie 2in1 water tank">
+					
+					<span>
+						Jolie 2in1 water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters/milo-2in1-water-tank.html" title="Milo 2in1 water tank">
+					
+					<span>
+						Milo 2in1 water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/products/rainwater-tanks-overground/modern-rainwater-tanks.html" title="Modern Rainwater Tanks">
+					
+					<span>
+						Modern Rainwater Tanks
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-8888" class="input-menu" />
+			<label for="toggle-menu-8888" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/modern-rainwater-tanks/nordic-water-tank/nordic-water-tank-graphite-grey.html" title="Nordic water tank">
+					
+					<span>
+						Nordic water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/modern-rainwater-tanks/elegance-wall-tank.html" title="Elegance wall tank">
+					
+					<span>
+						Elegance wall tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks-overground/slimline-rainwater-tanks.html" title="Slimline Rainwater Tanks">
+					
+					<span>
+						Slimline Rainwater Tanks
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-8895" class="input-menu" />
+			<label for="toggle-menu-8895" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/slimline-rainwater-tanks/sunda-wall-tank.html" title="Sunda wall tank">
+					
+					<span>
+						Sunda wall tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/slimline-rainwater-tanks/terranova-wall-tank.html" title="Terranova wall tank">
+					
+					<span>
+						Terranova wall tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/slimline-rainwater-tanks/wall-mounted-terra-tank.html" title="Wall-mounted terra tank">
+					
+					<span>
+						Wall-mounted terra tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/slimline-rainwater-tanks/wall-mounted-slim-tank.html" title="Wall-mounted slim tank">
+					
+					<span>
+						Wall-mounted slim tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/slimline-rainwater-tanks/wall-mounted-extraslim/wall-mounted-extraslim-stone-decor-sand-beige.html" title="Wall-mounted ExtraSlim">
+					
+					<span>
+						Wall-mounted ExtraSlim
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/slimline-rainwater-tanks/slim-stone-decor-wall-tank/wall-mounted-slim-tank-sand-beige.html" title="Slim Stone Decor wall tank">
+					
+					<span>
+						Slim Stone Decor wall tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/slimline-rainwater-tanks/wall-mounted-slim-stone-decor/slim-stone-decor-sandbeige.html" title="Wall-mounted slim stone decor">
+					
+					<span>
+						Wall-mounted slim stone decor
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/slimline-rainwater-tanks/wall-mounted-slim-wood-decor/slim-wood-decor-darkwood.html" title="Wall-mounted slim wood decor">
+					
+					<span>
+						Wall-mounted slim wood decor
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks-overground/rustic-rainwater-tanks.html" title="Rustic Rainwater Tanks">
+					
+					<span>
+						Rustic Rainwater Tanks
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-8953" class="input-menu" />
+			<label for="toggle-menu-8953" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rustic-rainwater-tanks/rocky-junior-wall-tank/rocky-junior-wall-tank-dark-granite.html" title="Rocky Junior wall tank">
+					
+					<span>
+						Rocky Junior wall tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rustic-rainwater-tanks/rocky-wall-tank/rocky-wall-tank-sandstone.html" title="Rocky wall tank">
+					
+					<span>
+						Rocky wall tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rustic-rainwater-tanks/woody-wall-tank/woody-wall-tank-lightwood.html" title="Woody wall tank">
+					
+					<span>
+						Woody wall tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rustic-rainwater-tanks/woody-junior-wall-tank/woody-junior-wall-tank-darkwood.html" title="Woody Junior wall tank">
+					
+					<span>
+						Woody Junior wall tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rustic-rainwater-tanks/woodstock-water-tank/woodstock-water-tank-greywood.html" title="Woodstock Water tank">
+					
+					<span>
+						Woodstock Water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rustic-rainwater-tanks/madera-water-tank.html" title="Madera water tank">
+					
+					<span>
+						Madera water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rustic-rainwater-tanks/arondo-water-tank.html" title="Arondo water tank">
+					
+					<span>
+						Arondo water tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rustic-rainwater-tanks/vino-rainwater-barrel.html" title="Vino rainwater barrel">
+					
+					<span>
+						Vino rainwater barrel
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rustic-rainwater-tanks/timber-rainwater-tank.html" title="Timber rainwater tank">
+					
+					<span>
+						Timber rainwater tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rustic-rainwater-tanks/muro-rainwater-tank.html" title="Muro rainwater tank">
+					
+					<span>
+						Muro rainwater tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rustic-rainwater-tanks/barrica-rain-water-barrel.html" title="Barrica rain water barrel">
+					
+					<span>
+						Barrica rain water barrel
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks-overground/mediterranean-style-rainwater-tanks.html" title="Mediterranean-Style Rainwater Tanks">
+					
+					<span>
+						Mediterranean-Style Rainwater Tanks
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-8884" class="input-menu" />
+			<label for="toggle-menu-8884" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/mediterranean-style-rainwater-tanks/rainwater-amphora.html" title="Rainwater amphora">
+					
+					<span>
+						Rainwater amphora
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/mediterranean-style-rainwater-tanks/antique-wall-amphora.html" title="Antique wall amphora">
+					
+					<span>
+						Antique wall amphora
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/mediterranean-style-rainwater-tanks/antique-amphora/antique-amphora-terracotta.html" title="Antique amphora">
+					
+					<span>
+						Antique amphora
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/mediterranean-style-rainwater-tanks/amphora-rain-amphora.html" title="Amphora rain amphora">
+					
+					<span>
+						Amphora rain amphora
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/mediterranean-style-rainwater-tanks/column-tank/column-tank-stone-grey.html" title="Column tank">
+					
+					<span>
+						Column tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks-overground/round-rainwater-tanks.html" title="Round Rainwater Tanks">
+					
+					<span>
+						Round Rainwater Tanks
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-8914" class="input-menu" />
+			<label for="toggle-menu-8914" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/round-rainwater-tanks/round-water-butt.html" title="Round water butt">
+					
+					<span>
+						Round water butt
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/round-rainwater-tanks/lanzarote-water-butt.html" title="Lanzarote water butt">
+					
+					<span>
+						Lanzarote water butt
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/round-rainwater-tanks/siena-water-butt.html" title="Siena water butt">
+					
+					<span>
+						Siena water butt
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks-overground/square-rainwater-tanks.html" title="Square Rainwater Tanks">
+					
+					<span>
+						Square Rainwater Tanks
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-8911" class="input-menu" />
+			<label for="toggle-menu-8911" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/square-rainwater-tanks/ibiza-water-butt-square/ibiza-water-butt-square-graphitegrey.html" title="Ibiza water butt square">
+					
+					<span>
+						Ibiza water butt square
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/square-rainwater-tanks/square-water-butt/square-water-butt-green.html" title="Square water butt">
+					
+					<span>
+						Square water butt
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks-overground/rainwater-tanks.html" title="Rainwater tanks">
+					
+					<span>
+						Rainwater tanks
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7692" class="input-menu" />
+			<label for="toggle-menu-7692" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rainwater-tanks/cubus-garden-tank/cubus-garden-tank-dark-green.html" title="Cubus garden tank">
+					
+					<span>
+						Cubus garden tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rainwater-tanks/wall-tank-classico.html" title="Wall tank Classico">
+					
+					<span>
+						Wall tank Classico
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rainwater-tanks/wall-mounted-classic-tank.html" title="Wall-mounted classic tank">
+					
+					<span>
+						Wall-mounted classic tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/rainwater-tanks/quadro-wall-tank/quadro-wall-tank.html" title="Quadro wall tank">
+					
+					<span>
+						Quadro wall tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rainwater-tanks/herkules-tank.html" title="Herkules-Tank">
+					
+					<span>
+						Herkules-Tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rainwater-tanks/herkules-tank-set.html" title="Herkules tank set">
+					
+					<span>
+						Herkules tank set
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/rainwater-tanks/top-tank.html" title="Top tank">
+					
+					<span>
+						Top tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks-overground/downpipe-filters.html" title="Rainwater collector">
+					
+					<span>
+						Rainwater collector
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7680" class="input-menu" />
+			<label for="toggle-menu-7680" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/downpipe-filters/rain-collector-speedy.html" title="Rain collector Speedy">
+					
+					<span>
+						Rain collector Speedy
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/downpipe-filters/rain-collector-speedy-flexx.html" title="Rain Collector Speedy Flexx">
+					
+					<span>
+						Rain Collector Speedy Flexx
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/downpipe-filters/rain-collector-rapido.html" title="Rain collector Rapido">
+					
+					<span>
+						Rain collector Rapido
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/downpipe-filters/rain-collector-rapido-quattro.html" title="Rain collector Rapido Quattro">
+					
+					<span>
+						Rain collector Rapido Quattro
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/downpipe-filters/rain-collector-avanti.html" title="Rain collector Avanti">
+					
+					<span>
+						Rain collector Avanti
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/downpipe-filters/regendieb-pro/regendieb-pro-grey.html" title="Regendieb Pro">
+					
+					<span>
+						Regendieb Pro
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/downpipe-filters/regendieb.html" title="Regendieb">
+					
+					<span>
+						Regendieb
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/downpipe-filters/filling-device/filling-device-grey.html" title="Filling device">
+					
+					<span>
+						Filling device
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/downpipe-filters/filling-device-de-luxe/filling-device-de-luxe-grey.html" title="Filling device de luxe">
+					
+					<span>
+						Filling device de luxe
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks-overground/downpipe-filters/filling-device-mini/filling-device-mini-grey.html" title="Filling device Mini">
+					
+					<span>
+						Filling device Mini
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/downpipe-filters/foliage-guard.html" title="Foliage guard">
+					
+					<span>
+						Foliage guard
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/water-butts/downpipe-filters/downpipe-filter-quattro/downpipe-filter-quattro-grey.html" title="Downpipe filter Quattro">
+					
+					<span>
+						Downpipe filter Quattro
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/how-does-a-rainwater-storage-tank-work.html" title="How does a rainwater storage tank work?">
+					
+					<span>
+						How does a rainwater storage tank work?
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/quality-rainwater-storage-tanks.html" title="Quality - rainwater storage tanks">
+					
+					<span>
+						Quality - rainwater storage tanks
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/raised-beds.html" title="Raised beds">
+					
+					<span>
+						Raised beds
+						
+							<i class="fal fa-angle-right"></i>
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7729" class="input-menu" />
+			<label for="toggle-menu-7729" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-3">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/raised-beds/raised-bed-finder.html" title="Raised Bed Finder">
+					
+					<span>
+						Raised Bed Finder
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/raised-beds/skyline-raised-bed.html" title="Skyline raised bed">
+					
+					<span>
+						Skyline raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/raised-beds/ergo-raised-bed.html" title="Ergo Raised bed">
+					
+					<span>
+						Ergo Raised bed
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7587" class="input-menu" />
+			<label for="toggle-menu-7587" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system.html" title="Ergo Raised bed system">
+					
+					<span>
+						Ergo Raised bed system
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7588" class="input-menu" />
+			<label for="toggle-menu-7588" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-5">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-raised-bed/ergo-raised-bed-stone.html" title="Ergo Raised bed">
+					
+					<span>
+						Ergo Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-quadro-raised-bed/ergo-quadro-raised-bed-stone.html" title="Ergo Quadro Raised bed">
+					
+					<span>
+						Ergo Quadro Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-quadro-2l-raised-bed/ergo-quadro-2l-raised-bed-stone.html" title="Ergo Quadro 2L Raised bed">
+					
+					<span>
+						Ergo Quadro 2L Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-quadro-u-l-raised-bed/ergo-quadro-u-l-raised-bed-stone.html" title="Ergo Quadro U L Raised bed">
+					
+					<span>
+						Ergo Quadro U L Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-raised-bed-turbo/ergo-turbo-raised-bed-stone.html" title="Ergo Raised bed Turbo">
+					
+					<span>
+						Ergo Raised bed Turbo
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-quadro-turbo-raised-bed/ergo-quadro-turbo-raised-bed-stone.html" title="Ergo Quadro Turbo Raised bed">
+					
+					<span>
+						Ergo Quadro Turbo Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-quadro-turboplus-raised-bed/ergo-quadro-turboplus-raised-bed-stone.html" title="Ergo Quadro TurboPlus Raised bed">
+					
+					<span>
+						Ergo Quadro TurboPlus Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-quadro-turboplus-l-raised-bed/ergo-quadro-turboplus-l-raised-bed-stone.html" title="Ergo Quadro TurboPlus L Raised bed">
+					
+					<span>
+						Ergo Quadro TurboPlus L Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-quadro-turboplus-2l-raised-bed/ergo-quadro-turboplus-2l-raised-bed-stone.html" title="Ergo Quadro TurboPlus 2L Raised bed">
+					
+					<span>
+						Ergo Quadro TurboPlus 2L Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-quadro-turboplus-u-l-raised-bed/ergo-quadro-turboplus-u-l-raised-bed-stone.html" title="Ergo Quadro TurboPlus U L Raised bed">
+					
+					<span>
+						Ergo Quadro TurboPlus U L Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-vario-1-raised-bed/ergo-vario-1-raised-bed-stone.html" title="Ergo Vario 1 Raised bed">
+					
+					<span>
+						Ergo Vario 1 Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-vario-2-raised-bed/ergo-vario-2-raised-bed-stone.html" title="Ergo Vario 2 Raised bed">
+					
+					<span>
+						Ergo Vario 2 Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-raised-bed-system/ergo-vario-3-raised-bed/ergo-vario-3-raised-bed-stone.html" title="Ergo Vario 3 Raised bed">
+					
+					<span>
+						Ergo Vario 3 Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/raised-beds/ergo-raised-bed/ergo-modules.html" title="Ergo Modules">
+					
+					<span>
+						Ergo Modules
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7602" class="input-menu" />
+			<label for="toggle-menu-7602" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-5">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-modules/ergo-raised-bed-module/ergo-raised-bed-stone-module.html" title="Ergo Raised bed Module">
+					
+					<span>
+						Ergo Raised bed Module
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/ergo-modules/ergo-quadro-raised-bed-module/ergo-quadro-raised-bed-stone-module.html" title="Ergo Quadro Raised bed Module">
+					
+					<span>
+						Ergo Quadro Raised bed Module
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/raised-beds/ergo-raised-bed/accessories.html" title="Accessories">
+					
+					<span>
+						Accessories
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7605" class="input-menu" />
+			<label for="toggle-menu-7605" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-5">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/raised-beds/ergo-raised-bed/accessories/flora-water-saving-system.html" title="Flora water saving system">
+					
+					<span>
+						Flora water saving system
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/raised-beds/ergo-raised-bed/accessories/cold-frame-attachment-for-ergo-quadro-m/fruehbeet-aufsatz-fuer-ergo-quadro-m-hochbeet.html" title="Cold Frame Attachment for Ergo Quadro M">
+					
+					<span>
+						Cold Frame Attachment for Ergo Quadro M
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/raised-beds/ergo-raised-bed/accessories/growth-module-ergo-raised-bed.html" title="Growth Module Ergo Raised bed">
+					
+					<span>
+						Growth Module Ergo Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/raised-beds/ergo-raised-bed/accessories/growth-module-ergo-quadro-raised-bed.html" title="Growth Module Ergo Quadro Raised bed">
+					
+					<span>
+						Growth Module Ergo Quadro Raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/products/raised-beds/urban-balcony-raised-bed.html" title="Urban balcony raised bed">
+					
+					<span>
+						Urban balcony raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/raised-beds/filling-a-raised-bed.html" title="Filling a raised bed">
+					
+					<span>
+						Filling a raised bed
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/composters.html" title="Composters">
+					
+					<span>
+						Composters
+						
+							<i class="fal fa-angle-right"></i>
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7612" class="input-menu" />
+			<label for="toggle-menu-7612" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-3">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/composters/composted-properly.html" title="Composted properly">
+					
+					<span>
+						Composted properly
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/composters/quality-composters.html" title="Quality - Composters">
+					
+					<span>
+						Quality - Composters
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/composters/thermo-wood/thermo-wood-composter.html" title="Thermo-Wood">
+					
+					<span>
+						Thermo-Wood
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/composters/thermo-king.html" title="Thermo-King">
+					
+					<span>
+						Thermo-King
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/composters/thermo-star-composter.html" title="Thermo-Star composter">
+					
+					<span>
+						Thermo-Star composter
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/composters/air-king.html" title="Air-King">
+					
+					<span>
+						Air-King
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/composters/eco-master.html" title="ECO-Master">
+					
+					<span>
+						ECO-Master
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/composters/eco-king/eco-king-green.html" title="ECO-King">
+					
+					<span>
+						ECO-King
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/composters/rapid-composter.html" title="Rapid composter">
+					
+					<span>
+						Rapid composter
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/composters/eco-composter.html" title="ECO composter">
+					
+					<span>
+						ECO composter
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/composters/urban-city-composter.html" title="Urban City Composter">
+					
+					<span>
+						Urban City Composter
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/garden.html" title="Garden">
+					
+					<span>
+						Garden
+						
+							<i class="fal fa-angle-right"></i>
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7577" class="input-menu" />
+			<label for="toggle-menu-7577" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-3">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/garden/enjoy-the-garden-diversity-from-garantia.html" title="Enjoy the garden diversity from Garantia">
+					
+					<span>
+						Enjoy the garden diversity from Garantia
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/garden/growing-tunnel.html" title="Growing tunnel">
+					
+					<span>
+						Growing tunnel
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/garden/forcing-cloche.html" title="Forcing cloche">
+					
+					<span>
+						Forcing cloche
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/garden/garden-board.html" title="Garden board">
+					
+					<span>
+						Garden board
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/garden/edgar-lawn-edging.html" title="Edgar lawn edging">
+					
+					<span>
+						Edgar lawn edging
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/garden/nova-bio-bucket/nova-bio-bucket-graphite-grey.html" title="Nova bio bucket">
+					
+					<span>
+						Nova bio bucket
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/garden/bio-bucket.html" title="Bio bucket">
+					
+					<span>
+						Bio bucket
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/garden/universal-round-container/universal-round-container-anthracite.html" title="Universal round container">
+					
+					<span>
+						Universal round container
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/garden/universal-container-oval.html" title="Universal container oval">
+					
+					<span>
+						Universal container oval
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/garden/multi-purpose-container-square/multi-purpose-container-square-blue.html" title="Multi-purpose container square">
+					
+					<span>
+						Multi-purpose container square
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks.html" title="Rainwater tanks">
+					
+					<span>
+						Rainwater tanks underground
+						
+							<i class="fal fa-angle-right"></i>
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7635" class="input-menu" />
+			<label for="toggle-menu-7635" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-3">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/product-advisor-tanks.html" title="Product advisor tanks">
+					
+					<span>
+						Product advisor tanks
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks/rainwater-harvesting-information/why-rainwater-harvesting.html" title="Rainwater harvesting information">
+					
+					<span>
+						Rainwater harvesting information
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7672" class="input-menu" />
+			<label for="toggle-menu-7672" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/rainwater-harvesting-information/why-rainwater-harvesting.html" title="Why rainwater harvesting?">
+					
+					<span>
+						Why rainwater harvesting?
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/rainwater-harvesting-information/faq.html" title="FAQ">
+					
+					<span>
+						FAQ
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/rainwater-harvesting-information/video-downpipe-filter.html" title="Video: Downpipe filter">
+					
+					<span>
+						Video: Downpipe filter
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/quality-rainwater-tanks.html" title="Quality - rainwater tanks">
+					
+					<span>
+						Quality - rainwater tanks
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks.html" title="Underground rainwater tanks">
+					
+					<span>
+						Underground rainwater tanks
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7666" class="input-menu" />
+			<label for="toggle-menu-7666" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/li-lo-flat-rainwater-tank.html" title="Li-Lo flat rainwater tank">
+					
+					<span>
+						Li-Lo flat rainwater tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks/underground-rainwater-tanks/cristall-rainwater-underground-tank/cristall-underground-tank-for-pedestrian-loading.html" title="Cristall rainwater underground tank">
+					
+					<span>
+						Cristall rainwater underground tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks/underground-rainwater-tanks/columbus-rainwater-underground-tank/columbus-underground-tank-for-pedestrian-loading.html" title="Columbus rainwater underground tank">
+					
+					<span>
+						Columbus rainwater underground tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/rainwater-tank-herkules.html" title="Rainwater tank Herkules">
+					
+					<span>
+						Rainwater tank Herkules
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/herkules-tank-set.html" title="Herkules tank set">
+					
+					<span>
+						Herkules tank set
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/profi-tank-system.html" title="Profi tank system">
+					
+					<span>
+						Profi tank system
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/compact-tank-system.html" title="Compact tank system">
+					
+					<span>
+						Compact tank system
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/mono-tank-system.html" title="Mono tank system">
+					
+					<span>
+						Mono tank system
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/primus-tank-system.html" title="Primus tank system">
+					
+					<span>
+						Primus tank system
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/modularis-tank-system.html" title="Modularis tank system">
+					
+					<span>
+						Modularis tank system
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/flat-s-flat-tank.html" title="FLAT S Flat tank">
+					
+					<span>
+						FLAT S Flat tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/flat-m-flat-tank.html" title="FLAT M Flat tank">
+					
+					<span>
+						FLAT M Flat tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/flat-l-flat-tank.html" title="FLAT L Flat tank">
+					
+					<span>
+						FLAT L Flat tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/underground-rainwater-tanks/flat-xl-flat-tank.html" title="FLAT XL flat tank">
+					
+					<span>
+						FLAT XL flat tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks/garden-systems.html" title="Garden systems">
+					
+					<span>
+						Garden systems
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7661" class="input-menu" />
+			<label for="toggle-menu-7661" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-systems/garden-package-proline.html" title="Garden package PROline">
+					
+					<span>
+						Garden package PROline
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-systems/herkules-package-garden.html" title="Herkules package Garden">
+					
+					<span>
+						Herkules package Garden
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-systems/complete-flat-packages-garden-comfort.html" title="Complete Flat packages Garden-Comfort">
+					
+					<span>
+						Complete Flat packages Garden-Comfort
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-systems/complete-modularis-packages-garden-comfort.html" title="Complete Modularis packages Garden-Comfort">
+					
+					<span>
+						Complete Modularis packages Garden-Comfort
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-systems/complete-compact-packages-garden-comfort.html" title="Complete Compact packages Garden-Comfort">
+					
+					<span>
+						Complete Compact packages Garden-Comfort
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-systems/complete-mono-packages-garden-comfort.html" title="Complete Mono packages Garden-Comfort">
+					
+					<span>
+						Complete Mono packages Garden-Comfort
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks/home-systems.html" title="Home systems">
+					
+					<span>
+						Home systems
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7659" class="input-menu" />
+			<label for="toggle-menu-7659" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/home-systems/house-package-proline.html" title="House package PROline">
+					
+					<span>
+						House package PROline
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/home-systems/complete-flat-packages-home-premium.html" title="Complete Flat packages Home-Premium">
+					
+					<span>
+						Complete Flat packages Home-Premium
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/home-systems/complete-modularis-packages-home-premium.html" title="Complete Modularis packages Home-Premium">
+					
+					<span>
+						Complete Modularis packages Home-Premium
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/home-systems/complete-mono-packages-home-premium.html" title="Complete Mono packages Home-Premium">
+					
+					<span>
+						Complete Mono packages Home-Premium
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/modular-system.html" title="Modular system">
+					
+					<span>
+						Modular system
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks/rainwater-filters.html" title="Rainwater filters">
+					
+					<span>
+						Rainwater filters
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7653" class="input-menu" />
+			<label for="toggle-menu-7653" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/rainwater-filters/supra-filter-internal.html" title="SUPRA-Filter Internal">
+					
+					<span>
+						SUPRA-Filter Internal
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/rainwater-filters/supra-filter-internal-with-straight-outlet.html" title="SUPRA-Filter internal with straight outlet">
+					
+					<span>
+						SUPRA-Filter internal with straight outlet
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/rainwater-filters/underground-fine-filter.html" title="Underground fine filter">
+					
+					<span>
+						Underground fine filter
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/rainwater-filters/pot-filter.html" title="Pot filter">
+					
+					<span>
+						Pot filter
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/rainwater-filters/filter-basket.html" title="Filter basket">
+					
+					<span>
+						Filter basket
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks/drinking-water-feeding-module-pumps.html" title="Drinking water feeding module &amp; pumps">
+					
+					<span>
+						Drinking water feeding module &amp; pumps
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7650" class="input-menu" />
+			<label for="toggle-menu-7650" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/drinking-water-feeding-module-pumps/drinking-water-feeding-module.html" title="Drinking water feeding module">
+					
+					<span>
+						Drinking water feeding module
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/drinking-water-feeding-module-pumps/digital-fill-level-display-with-drinking-water-feeding-function.html" title="Digital fill level display with drinking water feeding function">
+					
+					<span>
+						Digital fill level display with drinking water feeding function
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks/water-extraction.html" title="Water extraction">
+					
+					<span>
+						Water extraction
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7643" class="input-menu" />
+			<label for="toggle-menu-7643" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks/water-extraction/granite-water-spring/granite-water-spring-darkgranite.html" title="Granite water spring">
+					
+					<span>
+						Granite water spring
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks/water-extraction/wood-water-spring/wood-water-spring-darkwood.html" title="Wood water spring">
+					
+					<span>
+						Wood water spring
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/water-extraction/rondo-water-spring-unit.html" title="Rondo water spring unit">
+					
+					<span>
+						Rondo water spring unit
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks/water-extraction/stone-fountains-venezia/stone-fountains-venezia-lightgranite.html" title="Stone fountains Venezia">
+					
+					<span>
+						Stone fountains Venezia
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="https://www.garantia.com/en/rainwater-tanks/water-extraction/stone-fountains-roma/stone-fountains-roma-lightgranite.html" title="Stone fountains Roma">
+					
+					<span>
+						Stone fountains Roma
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/water-extraction/water-connector-external.html" title="Water connector external">
+					
+					<span>
+						Water connector external
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/rainwater-tanks/garden-accessories.html" title="Garden accessories">
+					
+					<span>
+						Garden accessories
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7636" class="input-menu" />
+			<label for="toggle-menu-7636" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-accessories/digital-fill-level-display.html" title="Digital fill level display">
+					
+					<span>
+						Digital fill level display
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-accessories/floating-water-extraction-unit.html" title="Floating water extraction unit">
+					
+					<span>
+						Floating water extraction unit
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-accessories/overflow-siphon.html" title="Overflow siphon">
+					
+					<span>
+						Overflow siphon
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-accessories/wall-duct.html" title="Wall duct">
+					
+					<span>
+						Wall duct
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/garden-accessories/labelling-set.html" title="Labelling set">
+					
+					<span>
+						Labelling set
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/stormwater-management.html" title="Stormwater Management">
+					
+					<span>
+						Stormwater Management
+						
+							<i class="fal fa-angle-right"></i>
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7627" class="input-menu" />
+			<label for="toggle-menu-7627" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-3">
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/stormwater-management/infiltration-tunnel.html" title="Infiltration tunnel">
+					
+					<span>
+						Infiltration tunnel
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7631" class="input-menu" />
+			<label for="toggle-menu-7631" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-4">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/stormwater-management/infiltration-tunnel/infiltration-tunnel-130.html" title="Infiltration tunnel 130">
+					
+					<span>
+						Infiltration tunnel 130
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/stormwater-management/infiltration-tunnel/infiltration-tunnel-300.html" title="Infiltration tunnel 300">
+					
+					<span>
+						Infiltration tunnel 300
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/stormwater-management/infiltration-tunnel-sets.html" title="Infiltration Tunnel sets">
+					
+					<span>
+						Infiltration Tunnel sets
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/stormwater-management/infiltration-tunnel-twin.html" title="Infiltration Tunnel Twin">
+					
+					<span>
+						Infiltration Tunnel Twin
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/stormwater-management/herkules-infiltration-tank.html" title="Herkules Infiltration tank">
+					
+					<span>
+						Herkules Infiltration tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/stormwater-management/rapid-soil-test.html" title="Rapid soil test">
+					
+					<span>
+						Rapid soil test
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/retention.html" title="Retention">
+					
+					<span>
+						Retention
+						
+							<i class="fal fa-angle-right"></i>
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-9250" class="input-menu" />
+			<label for="toggle-menu-9250" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-3">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/retention/mono-retention-tank.html" title="Mono retention tank">
+					
+					<span>
+						Mono retention tank
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/retention/mono-retention-tank-plus.html" title="Mono retention tank Plus">
+					
+					<span>
+						Mono retention tank Plus
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/septic-tanks.html" title="Septic tanks">
+					
+					<span>
+						Septic tanks
+						
+							<i class="fal fa-angle-right"></i>
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7623" class="input-menu" />
+			<label for="toggle-menu-7623" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-3">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/septic-tanks/herkules-septic-tank-cesspool.html" title="Herkules - Septic tank / Cesspool">
+					
+					<span>
+						Herkules - Septic tank / Cesspool
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/septic-tanks/septic-tank-columbus.html" title="Septic tank Columbus">
+					
+					<span>
+						Septic tank Columbus
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/septic-tanks/septic-tank-li-lo.html" title="Septic tank Li-Lo">
+					
+					<span>
+						Septic tank Li-Lo
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/faq.html" title="FAQ">
+					
+					<span>
+						FAQ
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/garantia-tv.html" title="Garantia TV">
+					
+					<span>
+						Garantia TV
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/downloads/catalogues-brochures.html" title="Downloads">
+					
+					<span>
+						Downloads
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7566" class="input-menu" />
+			<label for="toggle-menu-7566" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-2">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/downloads/catalogues-brochures.html" title="Catalogues / Brochures">
+					
+					<span>
+						Catalogues / Brochures
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/downloads/instructions.html" title="Instructions">
+					
+					<span>
+						Instructions
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/downloads/dimension-drawings.html" title="Dimension drawings">
+					
+					<span>
+						Dimension drawings
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/contact.html" title="Contact">
+					
+					<span>
+						Contact
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/about-garantia.html" title="About GARANTIA">
+					
+					<span>
+						About GARANTIA
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7552" class="input-menu" />
+			<label for="toggle-menu-7552" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-2">
+		
+			
+
+			
+			
+				
+			
+
+			<li class=" sub">
+				<a href="/en/over-garantia/sustainability/sustainability-goes-beyond-the-product.html" title="Sustainability">
+					
+					<span>
+						Sustainability
+						
+							<i class="fal fa-angle-right"></i>
+						
+					</span>
+				</a>
+
+				
+					
+					
+	
+			
+	
+			<input type="checkbox" id="toggle-menu-7557" class="input-menu" />
+			<label for="toggle-menu-7557" class="label-menu">
+				<i class="fal fa-angle-down"></i>
+				<i class="fal fa-angle-up"></i>
+			</label>
+		
+
+		
+	<ul class="level-3">
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/over-garantia/sustainability/sustainability-goes-beyond-the-product.html" title="Sustainability goes beyond the product">
+					
+					<span>
+						Sustainability goes beyond the product
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/over-garantia/sustainability/from-recycling-to-quality.html" title="From recycling to quality">
+					
+					<span>
+						From recycling to quality
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/over-garantia/sustainability/our-contribution-to-climate-protection.html" title="Our contribution to climate protection">
+					
+					<span>
+						Our contribution to climate protection
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/over-garantia/sustainability/rainwater-harvesting-conserves-our-groundwater-ressources.html" title="Rainwater harvesting conserves our groundwater ressources">
+					
+					<span>
+						Rainwater harvesting conserves our groundwater ressources
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/over-garantia/sustainability/garantia-green-planet-collection.html" title="GARANTIA green planet collection">
+					
+					<span>
+						GARANTIA green planet collection
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/over-garantia/history.html" title="History">
+					
+					<span>
+						History
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks-overground/quality-rainwater-storage-tanks.html" title="Quality - rainwater storage tanks">
+					
+					<span>
+						Quality - rainwater storage tanks
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/rainwater-tanks/quality-rainwater-tanks.html" title="Quality - rainwater tanks">
+					
+					<span>
+						Quality - rainwater tanks
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/composters/quality-composters.html" title="Quality - composters">
+					
+					<span>
+						Quality - composters
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+	</ul>
+	
+
+				
+			</li>
+		
+			
+
+			
+			
+
+			<li>
+				<a href="/en/blog.html" title="BLOG">
+					
+					<span>
+						BLOG
+						
+					</span>
+				</a>
+
+				
+			</li>
+		
+		
+			
+			
+		
+	</ul>
+	</div>
+
+		
+
+
+
+
+
+
+
+
+
+
+							<div class="search">
+        <input type="checkbox" id="toggle-search" />
+        <label for="toggle-search" class="toggle-search">
+          <i class="fal fa-search"></i>
+        </label>
+        <div class="tx-indexedsearch-searchbox">
+          <form method="post" action="/en/search.html" id="search_form">
+            <div class="tx-indexedsearch-hidden-fields">
+              <input type="hidden" name="tx_indexedsearch_pi2[action]" value="search"/>
+              <input type="hidden" name="tx_indexedsearch_pi2[controller]" value="Search"/>
+              <input type="hidden" name="tx_indexedsearch_pi2[search][_sections]" value="0"/>
+              <input id="tx_indexedsearch_freeIndexUid" type="hidden" name="tx_indexedsearch_pi2[search][_freeIndexUid]" value="_"/>
+              <input type="hidden" name="tx_indexedsearch_pi2[search][pointer]" value="0"/>
+              <input type="hidden" name="tx_indexedsearch_pi2[search][ext]" value=""/>
+              <input type="hidden" name="tx_indexedsearch_pi2[search][searchType]" value="1"/>
+              <input type="hidden" name="tx_indexedsearch_pi2[search][languageUid]" value="0"/>
+            </div><div class="tx-indexedsearch-form">
+            <input class="tx-indexedsearch-searchbox-sword indexed-search-autocomplete-sword typeahead" type="text" name="tx_indexedsearch_pi2[search][sword]" id="search_input" value="" placeholder="Search" />
+            <span class="search-placeholder"></span>
+            <button type="submit" name="tx_indexedsearch_pi2[search][submitButton]" class="tx-indexedsearch-searchbox-button"><i class="fal fa-search"></i></button>
+          </div>
+        </form>
+      </div>
+    </div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<!--TYPO3SEARCH_begin-->
+
+	<div class="banner bannerFixedHeight">
+		
+				
+						
+								
+	<div class="tx-ig-headerslider">
+		
+		
+			<div class="headerslider-stage">
+				
+					<div class="headerslider-slide-image" data-uid="357">
+	
+			
+					<a href="/en/blog/watering-ban.html">
+						
+	
+			<picture>
+				<source srcset="/fileadmin/media/Verlauf_trockene_feuchte_Erde_Pflanze.jpg" media="(min-width: 64em)" />
+				<source srcset="/fileadmin/_processed_/a/4/csm_Verlauf_trockene_feuchte_Erde_Pflanze_87d0b0b9fc.jpg" media="(min-width: 40em)" />
+				<source srcset="/fileadmin/_processed_/a/4/csm_Verlauf_trockene_feuchte_Erde_Pflanze_3889f9d5e3.jpg" media="(min-width: 0em)" />
+			</picture>
+			<div class="headerslider-slide-image-inner"></div>
+		
+
+					</a>
+				
+		
+</div>
+
+
+
+				
+					<div class="headerslider-slide-image" data-uid="274">
+	
+			
+					<a href="/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters/triagon-2in1-water-tank.html">
+						
+	
+			<picture>
+				<source srcset="/fileadmin/files/ALLGEMEIN/Triagon_Woody_junior_Header.jpg" media="(min-width: 64em)" />
+				<source srcset="/fileadmin/_processed_/1/4/csm_Triagon_Woody_junior_Header_393aaf81d2.jpg" media="(min-width: 40em)" />
+				<source srcset="/fileadmin/_processed_/1/4/csm_Triagon_Woody_junior_Header_8e59f17d78.jpg" media="(min-width: 0em)" />
+			</picture>
+			<div class="headerslider-slide-image-inner"></div>
+		
+
+					</a>
+				
+		
+</div>
+
+
+
+				
+					<div class="headerslider-slide-image" data-uid="275">
+	
+			
+					<a href="/en/rainwater-tanks-overground/rustic-rainwater-tanks/woodstock-water-tank.html">
+						
+	
+			<picture>
+				<source srcset="/fileadmin/files/ALLGEMEIN/Woodstock_Header.jpg" media="(min-width: 64em)" />
+				<source srcset="/fileadmin/_processed_/2/4/csm_Woodstock_Header_a47849f59c.jpg" media="(min-width: 40em)" />
+				<source srcset="/fileadmin/_processed_/2/4/csm_Woodstock_Header_a62c0f1682.jpg" media="(min-width: 0em)" />
+			</picture>
+			<div class="headerslider-slide-image-inner"></div>
+		
+
+					</a>
+				
+		
+</div>
+
+
+
+				
+					<div class="headerslider-slide-image" data-uid="272">
+	
+			
+					<a href="https://www.garantia.com/en/rainwater-tanks-overground/rainwater-tanks/quadro-wall-tank/quadro-wall-tank-graphitegrey.html">
+						
+	
+			<picture>
+				<source srcset="/fileadmin/files/ALLGEMEIN/Quadro_Ibiza_Header.jpg" media="(min-width: 64em)" />
+				<source srcset="/fileadmin/_processed_/a/0/csm_Quadro_Ibiza_Header_34d02e133d.jpg" media="(min-width: 40em)" />
+				<source srcset="/fileadmin/_processed_/a/0/csm_Quadro_Ibiza_Header_f50543028c.jpg" media="(min-width: 0em)" />
+			</picture>
+			<div class="headerslider-slide-image-inner"></div>
+		
+
+					</a>
+				
+		
+</div>
+
+
+
+				
+					<div class="headerslider-slide-image" data-uid="273">
+	
+			
+					<a href="/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters/azura-2in1-rainwater-tank.html">
+						
+	
+			<picture>
+				<source srcset="/fileadmin/files/DE/Header_Cubus_Nordic.jpg" media="(min-width: 64em)" />
+				<source srcset="/fileadmin/_processed_/0/4/csm_Header_Cubus_Nordic_d08d95f9f0.jpg" media="(min-width: 40em)" />
+				<source srcset="/fileadmin/_processed_/0/4/csm_Header_Cubus_Nordic_a4ca202bbd.jpg" media="(min-width: 0em)" />
+			</picture>
+			<div class="headerslider-slide-image-inner"></div>
+		
+
+					</a>
+				
+		
+</div>
+
+
+
+				
+				
+					<div class="headerslider-dots show-for-medium"><button class="headerslider-dot"></button><button class="headerslider-dot"></button><button class="headerslider-dot"></button><button class="headerslider-dot"></button><button class="headerslider-dot"></button></div>
+				
+				
+					<div class="headerslider-arrows">
+						<div class="swiper-button-next">
+							<i class="fal fa-angle-right"></i>
+						</div>
+						<div class="swiper-button-prev">
+							<i class="fal fa-angle-left"></i>
+						</div>
+					</div>
+				
+			</div>
+			<div class="headerslider-content"></div>
+			<div class="headerslider-contents">
+				
+					
+		
+				
+			
+
+		
+				
+						<a href="/en/blog/watering-ban.html">
+							
+	<div class="headerslider-slide-content" data-uid="357">
+		<div class="headerslider-slide-content-inner">
+			<div class="row">
+				<div class="columns large-12">
+					
+						<div class="h2 slide-headline-small">Watering ban: How to keep your garden well-watered even during dry periods</div>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+						</a>
+					
+			
+	
+
+				
+					
+		
+				
+			
+
+		
+				
+						<a href="/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters/triagon-2in1-water-tank.html">
+							
+	<div class="headerslider-slide-content" data-uid="274">
+		<div class="headerslider-slide-content-inner">
+			<div class="row">
+				<div class="columns large-12">
+					
+						<div class="h2 slide-headline-small">NEW: water tank Triagon &amp; Woody Junior</div>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+						</a>
+					
+			
+	
+
+				
+					
+		
+				
+			
+
+		
+				
+						<a href="/en/rainwater-tanks-overground/rustic-rainwater-tanks/woodstock-water-tank.html">
+							
+	<div class="headerslider-slide-content" data-uid="275">
+		<div class="headerslider-slide-content-inner">
+			<div class="row">
+				<div class="columns large-12">
+					
+						<div class="h2 slide-headline-small">NEW: water tank Woodstock</div>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+						</a>
+					
+			
+	
+
+				
+					
+		
+				
+			
+
+		
+				
+						<a href="https://www.garantia.com/en/rainwater-tanks-overground/rainwater-tanks/quadro-wall-tank/quadro-wall-tank-graphitegrey.html">
+							
+	<div class="headerslider-slide-content" data-uid="272">
+		<div class="headerslider-slide-content-inner">
+			<div class="row">
+				<div class="columns large-12">
+					
+						<div class="h2 slide-headline-small">New colour: water tank Quadro &amp; Ibiza</div>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+						</a>
+					
+			
+	
+
+				
+					
+		
+				
+			
+
+		
+				
+						<a href="/en/products/rainwater-tanks-overground/rainwater-tanks-with-planters/azura-2in1-rainwater-tank.html">
+							
+	<div class="headerslider-slide-content" data-uid="273">
+		<div class="headerslider-slide-content-inner">
+			<div class="row">
+				<div class="columns large-12">
+					
+						<div class="h2 slide-headline-small">New size: Azura 2in1 340l &amp; colour: Vaso 2in1 Decor</div>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+						</a>
+					
+			
+	
+
+				
+			</div>
+		
+	
+	</div>
+
+
+							
+
+						
+					
+			
+	</div>
+
+
+<main>
+    
+		
+			<!--TYPO3SEARCH_end-->
+			
+					
+				
+			<!--TYPO3SEARCH_begin-->
+		
+		
+    
+
+            <div id="c27277" class="frame frame-default frame-type-igtemplate_main frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+                
+
+    
+    
+
+		
+		
+		
+
+		
+
+		
+			
+		
+		
+		
+		
+		
+		
+
+		<section class="main bgcolor-7">
+			
+			
+
+			<div class="row">
+				<div class="columns large-12">
+					
+    
+
+            <div id="c34410" class="frame frame-default frame-type-header frame-layout-2">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            
+                
+
+    
+            <h1 class="">
+                Garantia – products for a sustainable garden
+            </h1>
+        
+
+
+
+            
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+
+    
+
+            <div id="c27273" class="frame frame-default frame-type-list frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+    
+        
+	
+	
+		
+	
+	
+	
+
+	
+
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			<div class="ig-teasers ig-teasers-type-2 row expanded small-up-1 xsmall-up-2 medium-up-3 xmedium-up-4" data-equalizer="teaser-27273" data-equalize-by-row="true">
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/products/rainwater-tanks-overground.html" title="Rainwater Harvesting in Style" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/4/6/csm_Header_rainwatertanks_overground_d245a14126.jpg" width="540" height="281" alt="" title="Header rainwatertanks overground" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Rainwater Harvesting in Style</h2>
+
+
+
+
+
+
+	
+			<p>Stylish Tanks - Choose your tank from more than 80 shapes, coloures and sizes!</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/raised-beds.html" title="Raised beds" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/c/3/csm_Ergo_Hochbeet-Teaser_d5036d1b1d.jpg" width="540" height="281" alt="" title="Ergo Hochbeet Teaser" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Raised beds</h2>
+
+
+
+
+
+
+	
+			<p>Discover the garden diversity of GARANTIA.</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/composters.html" title="Composters" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/d/1/csm_Header_composters_e10d170ba9.jpg" width="540" height="281" alt="" title="Header composters" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Composters</h2>
+
+
+
+
+
+
+	
+			<p>GARANTIA offers a huge range of composter for every requirement - proven a million times!</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/garden.html" title="Garden" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/4/5/csm_Garten_Hochbeet_Blume_Kraeuter_9243ac21c4.jpg" width="540" height="281" alt="" title="Garten Hochbeet Blume Kraeuter" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Garden</h2>
+
+
+
+
+
+
+	
+			<p>Useful helpers in the garden.</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+			</div>
+		
+
+
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+
+    
+
+            <div id="c27276" class="frame frame-default frame-type-list frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+    
+        
+	
+	
+		
+	
+	
+	
+
+	
+
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			<div class="ig-teasers ig-teasers-type-2 row expanded small-up-1 xsmall-up-2 medium-up-3 xmedium-up-4" data-equalizer="teaser-27276" data-equalize-by-row="true">
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/rainwater-tanks.html" title="Rainwater tanks" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/2/6/csm_Header_rainwatertanks_underground_c0fca8a18c.jpg" width="540" height="281" alt="" title="Header rainwatertanks underground" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Rainwater tanks</h2>
+
+
+
+
+
+
+	
+			<p>Professional rainwater harvesting. For use in garden or home.</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/stormwater-management.html" title="Stormwater Management" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/f/7/csm_Teaser_Versickerung_644d1bcfeb.jpg" width="540" height="281" alt="" title="Teaser Versickerung" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Stormwater Management</h2>
+
+
+
+
+
+
+	
+			<p>Infiltration systems relieves the duct systems and you can save costs for the fess.</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/retention.html" title="Retention" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/a/a/csm_I_Columbus_Retentionszisterne_4500L_01_Screen_7544df5cf0.jpg" width="540" height="281" alt="" title="I Columbus Retentionszisterne 4500L 01 Screen" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Retention</h2>
+
+
+
+
+
+
+	
+			<p>Do you need rainwater retention? We have the solution!</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/septic-tanks.html" title="Septic tanks" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/9/4/csm_Teaser_Sammelgruben_9687fb6c42.jpg" width="540" height="281" alt="" title="Teaser Sammelgruben" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Septic tanks</h2>
+
+
+
+
+
+
+	
+			<p>For properties without canal connection with few or irregular wastewater, are the wastewater-septic tanks a ideal solution.</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+			</div>
+		
+
+
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+				</div>
+			</div>
+		</section>
+	
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+
+    
+
+            <div id="c35750" class="frame frame-default frame-type-igtemplate_main frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+                
+
+    
+    
+
+		
+		
+		
+
+		
+
+		
+			
+		
+		
+		
+		
+		
+		
+
+		<section class="main bgcolor-1">
+			
+			
+
+			<div class="row">
+				<div class="columns large-12">
+					
+    
+
+            <div id="c35749" class="frame frame-default frame-type-textpic frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+	
+		
+
+    
+        <header>
+            
+
+    
+            <h2 class="">
+                GARANTIA products are quality products
+            </h2>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+	
+
+                
+	<div class="ce-textpic ce-center ce-above">
+		
+				
+						
+
+
+
+						
+	
+
+	
+			
+		
+
+					
+			
+	</div>
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+
+    
+
+            <div id="c35745" class="frame frame-default frame-type-igtemplate_threecolumns frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+                
+
+    
+    
+
+		<div class="row columns-3">
+			
+				<div class="small-12 medium-4 columns">
+					
+    
+
+            <div id="c35747" class="frame frame-default frame-type-textpic frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+	
+		
+
+    
+
+
+
+	
+
+                
+	<div class="ce-textpic ce-center ce-below">
+		
+				
+						
+	
+
+	
+			<div class="ce-bodytext">
+				
+				<ul><li>Strict controls for each step of production</li><li>Over 20 years of experience</li><li>Products are separate tested</li></ul>
+			</div>
+		
+
+						
+
+	<div class="ce-gallery" data-ce-images="1">
+		<div class="row small-up-1 medium-up-1 large-up-1">
+			
+				<div class="column">
+					
+
+        
+
+		
+				
+<figure>
+	<img title="Premium Quality" src="/fileadmin/files/Premium_Quality.png" width="274" height="83" alt="" />
+	
+</figure>
+
+
+			
+	
+
+
+    
+
+
+				</div>
+			
+		</div>
+	</div>
+
+
+
+					
+			
+	</div>
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+				</div>
+			
+				<div class="small-12 medium-4 columns">
+					
+    
+
+            <div id="c35748" class="frame frame-default frame-type-textpic frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+	
+		
+
+    
+
+
+
+	
+
+                
+	<div class="ce-textpic ce-center ce-below">
+		
+				
+						
+	
+
+	
+			<div class="ce-bodytext">
+				
+				<ul><li>The production is carried out on modern machines</li><li>All tanks are developed for special requirements of rainwater harvesting</li></ul>
+			</div>
+		
+
+						
+
+	<div class="ce-gallery" data-ce-images="1">
+		<div class="row small-up-1 medium-up-1 large-up-1">
+			
+				<div class="column">
+					
+
+        
+
+		
+				
+<figure>
+	<img title="Awards Startseite GARANTIA" src="/fileadmin/files/Awards_Startseite_GARANTIA.jpg" width="485" height="83" alt="" />
+	
+</figure>
+
+
+			
+	
+
+
+    
+
+
+				</div>
+			
+		</div>
+	</div>
+
+
+
+					
+			
+	</div>
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+				</div>
+			
+				<div class="small-12 medium-4 columns">
+					
+    
+
+            <div id="c35746" class="frame frame-default frame-type-textpic frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+	
+		
+
+    
+
+
+
+	
+
+                
+	<div class="ce-textpic ce-center ce-below">
+		
+				
+						
+	
+
+	
+			<div class="ce-bodytext">
+				
+				<p>From January 2026, the 4rain product range will be integrated into the GARANTIA brand's product range and website.</p><ul><li>4rain and Garantia are trademarks of Otto Graf GmbH.</li><li>Nothing will change for our customers – the product range, quality and service will remain the same as usual.</li></ul>
+			</div>
+		
+
+						
+
+	<div class="ce-gallery" data-ce-images="1">
+		<div class="row small-up-1 medium-up-1 large-up-1">
+			
+				<div class="column">
+					
+
+        
+
+		
+				
+<figure>
+	<img title="4rain Garantia" src="/fileadmin/files/ALLGEMEIN/4rain_Garantia.jpg" width="4134" height="472" alt="" />
+	
+</figure>
+
+
+			
+	
+
+
+    
+
+
+				</div>
+			
+		</div>
+	</div>
+
+
+
+					
+			
+	</div>
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+				</div>
+			
+		</div>
+	
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+				</div>
+			</div>
+		</section>
+	
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+
+    
+
+            <div id="c27278" class="frame frame-default frame-type-igtemplate_main frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+                
+
+    
+    
+
+		
+		
+		
+
+		
+
+		
+			
+		
+		
+		
+		
+		
+		
+
+		<section class="main bgcolor-7">
+			
+			
+
+			<div class="row">
+				<div class="columns large-12">
+					
+    
+
+            <div id="c34408" class="frame frame-default frame-type-header frame-layout-2">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h2 class="">
+                Find the right product - quick and easy
+            </h2>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+
+    
+
+            <div id="c34407" class="frame frame-default frame-type-list frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+    
+        
+	
+	
+	
+	
+
+	
+
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			<div class="ig-teasers ig-teasers-type-2 row expanded small-up-1 xsmall-up-2 medium-up-2 xmedium-up-3" data-equalizer="teaser-34407" data-equalize-by-row="true">
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/products/rainwater-tanks-overground/rainwater-tank-finder.html" title="Rainwater Tank Finder" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/f/5/csm_Teaser_Produktberater_Regentonnen_c27ed5e5fa.jpg" width="470" height="244" alt="" title="Teaser Produktberater Regentonnen" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Rainwater Tank Finder</h2>
+
+
+
+
+
+
+	
+			<p>There&#039;s a stylish tank to suit all tastes: Choose your tank from more than 100 sizes, shapes and colours</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/rainwater-tanks/product-advisor-tanks.html" title="Product advisor tanks" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/c/f/csm_Teaser_Produktberater_Regenwassertanks_6242ac15c4.jpg" width="470" height="244" alt="" title="Teaser Produktberater Regenwassertanks" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Product advisor tanks</h2>
+
+
+
+
+
+
+	
+			<p>Interactive calculation of your rainwater tank size and money saving.</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/raised-beds/raised-bed-finder.html" title="Raised Bed Finder" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/5/5/csm_Hochbeet_Finder_a1e7ce1433.jpg" width="470" height="244" alt="" title="Hochbeet Finder" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Raised Bed Finder</h2>
+
+
+
+
+
+
+	
+			<p>Find the right raised bed quickly and easily</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+			</div>
+		
+
+
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+				</div>
+			</div>
+		</section>
+	
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+
+    
+
+            <div id="c27279" class="frame frame-default frame-type-igtemplate_main frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+                
+
+    
+    
+
+		
+		
+		
+
+		
+
+		
+			
+		
+		
+		
+		
+		
+		
+
+		<section class="main bgcolor-1">
+			
+			
+
+			<div class="row">
+				<div class="columns large-12">
+					
+    
+
+            <div id="c34409" class="frame frame-default frame-type-header frame-layout-2">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h2 class="">
+                Support from A to Z
+            </h2>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+
+    
+
+            <div id="c27275" class="frame frame-default frame-type-list frame-layout-0 frame-space-after-large">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+    
+        
+	
+	
+	
+	
+
+	
+
+	
+			
+			
+			
+				
+			
+			<div class="ig-teasers ig-teasers-type-1 row small-up-2 xmedium-up-3 large-up-4 xlarge-up-3 xxlarge-up-3 ig-teasers-3 ig-teasers-centered" data-equalizer="teaser-27275">
+				
+					<div class="column">
+
+<div class="ig-teaser" data-equalizer-watch="teaser-27275">
+	<a href="https://www.garantia.com/en/downloads.html" title="Downloads" target="">
+		
+			<span class="ig-teaser-icon">
+				<span class="t3js-icon icon icon-size-large icon-state-default icon-garantia-graf-download" data-identifier="garantia-graf-download" aria-hidden="true">
+	<span class="icon-markup">
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="174" viewBox="0 0 260 174"><defs><style>.primary-color{fill:#eb6911;}</style></defs><title>Download</title><g id="graf-download"><path class="primary-color" d="M128.23,119.79a2.49,2.49,0,0,0,3.54,0l22-22.05a2.5,2.5,0,1,0-3.53-3.53L132.5,112V36.5a2.5,2.5,0,0,0-5,0V112L109.71,94.21a2.5,2.5,0,1,0-3.53,3.53Z"/><path class="primary-color" d="M178.5,109.17a2.5,2.5,0,0,0-2.5,2.5v22a2,2,0,0,1-1.91,1.9H85.81a1.86,1.86,0,0,1-1.81-1.9v-22a2.5,2.5,0,0,0-5,0v22a6.86,6.86,0,0,0,6.81,6.9h88.28a6.91,6.91,0,0,0,6.91-6.9v-22A2.5,2.5,0,0,0,178.5,109.17Z"/></g></svg>
+	</span>
+	
+</span>
+			</span>
+		
+		<h2>Downloads</h2>
+	</a>
+</div>
+</div>
+				
+					<div class="column">
+
+<div class="ig-teaser" data-equalizer-watch="teaser-27275">
+	<a href="https://www.garantia.com/en/garantia-tv.html" title="Garantia TV" target="">
+		
+			<span class="ig-teaser-icon">
+				<span class="t3js-icon icon icon-size-large icon-state-default icon-garantia-graf-tv" data-identifier="garantia-graf-tv" aria-hidden="true">
+	<span class="icon-markup">
+<svg xmlns="http://www.w3.org/2000/svg" id="graf-tv" width="260" height="174" viewBox="0 0 260 174"><defs><style>.primary-color{fill:#eb6911;}</style></defs><title>GRAF TV</title><path class="primary-color" d="M130,59.31a23,23,0,1,1-23,23,23,23,0,0,1,23-23m0-3a26,26,0,1,0,26,26,26,26,0,0,0-26-26Z"/><polygon class="primary-color" points="123.15 93.43 142.99 82.31 123.15 71.19 123.15 93.43"/><path class="primary-color" d="M207,39v86.63H53V39H207m5-5H48v96.63H212V34Z"/><path class="primary-color" d="M175,138.12c0-1.38-1.63-2.5-3.63-2.5H88.62c-2,0-3.62,1.12-3.62,2.5s1.62,2.5,3.62,2.5h82.75c2,0,3.63-1.11,3.63-2.5Z"/></svg>
+	</span>
+	
+</span>
+			</span>
+		
+		<h2>Garantia TV</h2>
+	</a>
+</div>
+</div>
+				
+					<div class="column">
+
+<div class="ig-teaser" data-equalizer-watch="teaser-27275">
+	<a href="https://www.garantia.com/en/contact.html" title="Contact" target="">
+		
+			<span class="ig-teaser-icon">
+				<span class="t3js-icon icon icon-size-large icon-state-default icon-garantia-graf-contact" data-identifier="garantia-graf-contact" aria-hidden="true">
+	<span class="icon-markup">
+<svg xmlns="http://www.w3.org/2000/svg" id="graf-contact" width="260" height="174" viewBox="0 0 260 174"><defs><style>.primary-color{fill:#eb6911;}</style></defs><title>Contact</title><path class="primary-color" d="M165.44,100.88h2.1a15.76,15.76,0,1,0,0-31.52h-1.91V63c0-16.34-18-29-33.42-29S98.78,46.67,98.78,63v6.35H96.87a15.76,15.76,0,0,0,0,31.52h6.91V63c0-13.3,15.55-24,28.43-24s28.42,10.71,28.42,24V98.38c0,7.89-6.62,14-13.21,15a6.9,6.9,0,0,0-6.37-4.24h-8.84a6.92,6.92,0,1,0,0,13.83h8.84a6.91,6.91,0,0,0,6.48-4.54A20.86,20.86,0,0,0,165.44,100.88Zm-66.66-5H96.87a10.76,10.76,0,0,1,0-21.52h1.91ZM178.3,85.12a10.78,10.78,0,0,1-10.76,10.76h-1.91V74.36h1.91A10.78,10.78,0,0,1,178.3,85.12ZM141.05,118h-8.84a1.92,1.92,0,1,1,0-3.83h8.84a1.92,1.92,0,0,1,0,3.83Z"/><path class="primary-color" d="M170.31,116.13a2.5,2.5,0,0,0-2.93,4.05,33.43,33.43,0,0,1,4.07,3.46c4.48,4.39,6.85,9.39,6.85,14.46a2.5,2.5,0,0,0,5,0c0-6.45-2.89-12.68-8.33-18A37.54,37.54,0,0,0,170.31,116.13Z"/><path class="primary-color" d="M110.52,107C90,112,76.7,124.19,76.7,138.12a2.5,2.5,0,0,0,5,0c0-11.36,12-21.91,30-26.24a2.5,2.5,0,1,0-1.17-4.86Z"/></svg>
+	</span>
+	
+</span>
+			</span>
+		
+		<h2>Contact</h2>
+	</a>
+</div>
+</div>
+				
+			</div>
+		
+
+
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+
+    
+
+            <div id="c27272" class="frame frame-default frame-type-list frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+    
+        
+	
+	
+		
+	
+	
+	
+
+	
+
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			<div class="ig-teasers ig-teasers-type-2 row expanded small-up-1 xsmall-up-2 medium-up-2 xmedium-up-3" data-equalizer="teaser-27272" data-equalize-by-row="true">
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/over-garantia/sustainability/sustainability-goes-beyond-the-product.html" title="Sustainability goes beyond the product" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/f/3/csm_Header_For_a_greener_planet2025_a2fb3c7673.jpg" width="540" height="281" alt="Frau Umarmt baum mit for a greener planet Schriftzug" title="Frau Umarmt baum mit for a greener planet Schriftzug" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Sustainability goes beyond the product</h2>
+
+
+
+
+
+
+	
+			<p>Our products are manufactured in an extremely resource-efficient way.</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/over-garantia/sustainability/from-recycling-to-quality.html" title="From recycling to quality" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/a/2/csm_Teaser_Recycling_05fad4f98b.jpg" width="540" height="281" alt="" title="Teaser Recycling" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>From recycling to quality</h2>
+
+
+
+
+
+
+	
+			<p>&quot;Made of 5,000 recycled pots of yogurt!&quot;</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+					<div class="column">
+						<div class="accessory">
+	<a href="https://www.garantia.com/en/over-garantia/sustainability/our-contribution-to-climate-protection.html" title="Our contribution to climate protection" target="">
+		
+
+	<div class="accessory-image-outer">
+		<div class="accessory-image ">
+			
+					
+
+	
+			
+			
+					<img loading="lazy" src="/fileadmin/_processed_/4/2/csm_Teaser_Klimaschutz_97a08dd6f1.jpg" width="540" height="281" alt="" title="Teaser Klimaschutz" />
+				
+		
+
+				
+		</div>
+	</div>
+
+
+
+		<div class="accessory-text">
+			<h2>Our contribution to climate protection</h2>
+
+
+
+
+
+
+	
+			<p>Efficient production thanks to modern facilities</p>
+		
+
+
+		</div>
+	</a>
+</div>
+
+					</div>
+				
+			</div>
+		
+
+
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+				</div>
+			</div>
+		</section>
+	
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+	
+</main>
+<!--TYPO3SEARCH_end-->
+
+<footer id="footer">
+	
+    
+
+            <div id="c27285" class="frame frame-default frame-type-igtemplate_footer frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+                
+
+    
+    
+
+		<div class="footer-top" itemscope itemtype="http://schema.org/Corporation">
+			
+			<div class="row small-up-1 xsmall-up-2 medium-up-2 xmedium-up-3 large-up-5">
+				<div class="column">
+					
+		<span class="h4">Products</span>
+		<ul class="no-bullet"><li><a href="/en/products/rainwater-tanks-overground.html"><u>Water butts / Stylish tanks</u></a></li><li><a href="/en/rainwater-tanks.html"><u>Rainwater tanks</u></a></li><li><a href="/en/stormwater-management.html"><u>Stormwater Management</u></a></li></ul>
+	
+				</div>
+				<div class="column">
+					
+		
+		<ul class="no-bullet"><li><a href="/en/septic-tanks.html"><u>Septic tanks</u></a></li><li><a href="/en/composters.html"><u>Composters</u></a></li><li><a href="/en/garden.html"><u>Garden</u></a></li></ul>
+	
+				</div>
+				<div class="column">
+					
+		<span class="h4">Product advisor</span>
+		<ul class="no-bullet"><li><a href="/en/products/rainwater-tanks-overground/rainwater-tank-finder.html"><u>Product advisor stylish tanks</u></a></li><li><a href="/en/rainwater-tanks/product-advisor-tanks.html"><u>Product advisor tanks</u></a></li></ul>
+	
+				</div>
+				<div class="column">
+					
+		<span class="h4">Over GARANTIA</span>
+		<ul class="no-bullet"><li><a href="/en/about-garantia.html" title="Over GARANTIA"><u>Over GARANTIA</u></a></li><li><a href="/en/over-garantia/history.html" title="History"><u>History</u></a></li><li><a href="/en/over-garantia/sustainability/sustainability-goes-beyond-the-product.html" title="Sustainability"><u>Sustainability</u></a></li><li><a href="https://www.garantia.com/en/water-butts-stylish-tanks/quality-rainwater-storage-tanks.html" target="_top"><u>Quality - rainwater storage tanks</u></a></li><li><a href="https://www.garantia.com/en/rainwater-tanks/quality-rainwater-tanks.html" target="_top"><u>Quality - rainwater tanks</u></a></li><li><a href="https://www.garantia.com/en/composters/quality-composters.html" target="_top"><u>Quality - composters</u></a></li><li>&nbsp;</li></ul>
+	
+				</div>
+				<div class="column">
+					
+		<span class="h4">Contact</span>
+		<p><strong>GARANTIA is a trademark of</strong><br><a href="https://www.graf.info/en" target="_blank"><u>Otto Graf GmbH</u></a><br>Carl-Zeiss-Str. 2-6<br>DE-79331 Teningen<br>Germany<br>Phone: <a href="tel:004976415890"><u>+49 7641 589-0</u></a><br>Telefax: +49 7641 589-50<br>E-Mail: <a href="#" data-mailto-token="wksvdy4ohzybdJqkbkxdsk8myw" data-mailto-vector="10"><u>export(at)garantia.com</u></a><br><a href="/en/contact.html"><u>Contact form GARANTIA</u></a></p>
+<p>&nbsp;</p>
+	
+				</div>
+			</div>
+			
+				<div class="row">
+					<div class="columns large-12">
+						<div class="footer-icon-links">
+							
+								<a href="#" data-mailto-token="wksvdy4ohzybdJqkbkxdsk8myw" data-mailto-vector="10">
+									<span class="t3js-icon icon icon-size-small icon-state-default icon-fa-envelope" data-identifier="fa-envelope" aria-hidden="true">
+	<span class="icon-markup">
+<span class="icon-unify"><i class="fal fa-envelope"></i></span>
+	</span>
+	
+</span>
+								</a>
+							
+								<a href="tel:004976415890" title="call GARANTIA">
+									<span class="t3js-icon icon icon-size-small icon-state-default icon-fa-phone" data-identifier="fa-phone" aria-hidden="true">
+	<span class="icon-markup">
+<span class="icon-unify"><i class="fal fa-phone"></i></span>
+	</span>
+	
+</span>
+								</a>
+							
+								<a href="https://www.youtube.com//channel/UCRakRpRL1w2rlf0DtjyIAXg" target="_blank" rel="noreferrer" title="GARANTIA on YouTube">
+									<span class="t3js-icon icon icon-size-small icon-state-default icon-fa-youtube" data-identifier="fa-youtube" aria-hidden="true">
+	<span class="icon-markup">
+<span class="icon-unify"><i class="fab fa-youtube"></i></span>
+	</span>
+	
+</span>
+								</a>
+							
+						</div>
+					</div>
+				</div>
+			
+		</div>
+		<div class="footer-bar">
+			<div class="row">
+				<div class="columns small-12 large-6">
+					&copy; 2026 GARANTIA
+					
+					<p class="show-for-print">
+						https://www.garantia.com/en/
+					</p>
+				</div>
+				<div class="columns small-12 large-6">
+					<nav class="footer-legal-links">
+						<a href="/en/data-protection.html" title="Data protection">Data protection</a><a href="/en/imprint.html" title="Imprint">Imprint</a>
+					</nav>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+</footer>
+<script src="/typo3temp/assets/compressed/merged-04e3ec6bbbbf29cd4310efe4b6bd207e-5c3c1319c532f5c40fb776f17b998c0c.js?1791535792" nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA"></script>
+<script src="https://www.google.com/recaptcha/api.js?hl=" nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA"></script>
+<script src="/build/runtime.js?1791535580" nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA"></script>
+<script src="/build/226.js?1791535580" nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA"></script>
+<script src="/build/custom.js?1791535580" nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA"></script>
+
+<script src="/typo3temp/assets/compressed/merged-f6072ac010cd4bd1ce6e14cda3873fa8-d9c7d1439c48c99d0c46eb56eb2cb0b4.js?1791535792" nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA"></script>
+<script async="async" src="/_assets/2a58d7833cb34b2a67d37f5b750aa297/JavaScript/default_frontend.js?1776163892" nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA"></script>
+<script nonce="uVR9OctvlBgqbEtzHOtXCayASF78FfLVcl0yE9LcfvZ_vSEYDVySNA">$(document).ready(function(){
+    var suggester = new Bloodhound({
+      datumTokenizer: Bloodhound.tokenizers.obj.whitespace('value'),
+      queryTokenizer: Bloodhound.tokenizers.whitespace,
+      remote: {
+        cache: 'false',
+        url: '/en/?type=999&no_cache=1&tx_comsolitsuggest_suggest[search]=%QUERY&tx_comsolitsuggest_suggest[method]=suggest',
+        wildcard: '%QUERY',
+        transport: function (ajaxOptions, onSuccess, onError) {
+          ajaxOptions.dataType = "html";
+          $.ajax(ajaxOptions).done(done).fail(fail);
+          function done(data, textStatus, request) {
+              onSuccess(JSON.parse(removeHTML(data)));
+          }
+          function fail(request, textStatus, errorThrown) {
+              onError(errorThrown);
+          }
+        }
+      }
+    });
+    suggester.initialize();
+    $('.typeahead').typeahead({
+        hint: true,
+        highlight: true,
+        minLength: 1,
+    }, {
+        limit: 10,
+        displayKey: 'value',
+        source: suggester.ttAdapter()
+    })
+    .on('typeahead:selected', function(e){
+        $('#search_form').attr('action', $('#search_form').attr('action') + '?s=' + encodeURIComponent($('#search_form').find('#search_input').val()));
+        e.target.form.submit();
+    });
+    function removeHTML(input){
+      return input.replace(/<\/?[^>]+>/gi, '');
+    }
+});</script>
+
+
+</body>
+</html>

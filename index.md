@@ -5,3 +5,4 @@ Private Projekte (Möbelbau, Basteln, Planungen), ein Ordner je Projekt. Sync ü
 - [spiegelregal](spiegelregal/README.md) — Wandspiegel mit Regalspalte und Tür fürs Bad, Fertigungszeichnung v4 (Spiegel im Falz), Oberfläche Beize offen
 - [rucksack-reissverschluss](rucksack-reissverschluss/README.md) — Salewa Urban 22, beide Spiral-RV selbst ersetzen, Recherche v1
 - [katzentreppe](katzentreppe/README.md) — Katzentreppe zwischen zwei Balkonen, OSB-3-Stufen gesteckt in Fichtenkantholz, Aussparung von vorn, Zeichnung v3 maßstäblich A3
+- [balkon-regentonne](balkon-regentonne/README.md) — Schmaler Speicher 300–500 l; Grundkonzepte v1, Anschluss v2 mit GARDENA 7251-20/7142-20 und Schlauchempfehlung für 25 mm Innen-Ø; Montagebedingungen offen
